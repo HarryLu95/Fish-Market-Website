@@ -1,0 +1,9 @@
+name: "Fish Market"
+output_dir: "."
+navbar:
+  title: "Fish Market Inc."
+  left:
+    - text: "Home"
+      href: Home.html
+    - text: "About Us"
+      href: About.html
