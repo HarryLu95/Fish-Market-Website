@@ -1,7 +1,7 @@
 name: "Fish Market"
 output_dir: "."
 navbar:
-#可以试试加图片
+#try to add pictures
   title: "Fish Market Inc."
   left:
     - text: "Home"
