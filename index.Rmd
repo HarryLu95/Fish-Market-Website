@@ -1,5 +1,5 @@
 ---
-title: "We are Smith Family Market"
+title: "We are Smith's Family Market"
 ---
 
 Hello, Customer!

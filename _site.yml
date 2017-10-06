@@ -2,7 +2,7 @@ name: "Fish Market"
 output_dir: "."
 navbar:
 #try to add pictures
-  title: "Fish Market Inc."
+  title: "FishMarket Inc."
   left:
     - text: "Home"
       href: index.html
@@ -10,9 +10,9 @@ navbar:
       href: About.html
     - text: "Our Branches"
       menu:
-        - text: "Fish Market Sea Foods"
+        - text: "FishMarket SeaFoods"
         - href: Brand_FishMarketSeaFoods.html
-        - text: "Smith Family Market"
+        - text: "Smith's Family Market"
         - href: Brand_SmithFamilyMarket.html
         - text: "Copper Kettle"
         - href: Brand_CopperKettle.html
@@ -20,7 +20,7 @@ navbar:
       menu:
         - text: "Kentucky Proud Local Items"
         - href: Splty_KentuckyProud.html
-        - text: "Syracuse's"
+        - text: "Syracuse Sausages"
         - href: Splty_Syracuses.html
         - text: "Springer Mountain Farms"
         - href: Splty_SpringerMountainFarms.html

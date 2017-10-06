@@ -1,5 +1,8 @@
 ---
-title: "Contact Information"
+title: "![Contact Information](http://www.crystalscript.com/wp-content/uploads/2017/03/telephone.jpg)"
 ---
+<body style="background-color:LightSkyBlue">
 
-Phone & Email
+<font color=black size=12>To Order Call 502-587-7474</font>
+
+</body>
