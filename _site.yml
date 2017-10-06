@@ -26,3 +26,7 @@ navbar:
         - href: Splty_SpringerMountainFarms.html
     - text: "Contact"
       href: Contact.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
