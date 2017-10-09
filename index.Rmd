@@ -1,5 +1,8 @@
 ---
 title: "We are Smith's Family Market"
 ---
+<body style="background-color:LightCyan">
 
 Hello, Customer!
+
+</body>

@@ -1,5 +1,8 @@
 ---
-title: "Kentucky Proud Local Items"
+title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Kentucky Proud Local Items</font></td></tr></table>"
 ---
+<body style="background-color:LightCyan">
 
-We are local!!!
+#We are local!!!
+
+</body>

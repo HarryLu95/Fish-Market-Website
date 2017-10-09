@@ -1,5 +1,8 @@
 ---
 title: "About Us"
 ---
+<body style="background-color:LightCyan">
 
-Our history.
+Our history
+
+</body>

@@ -1,5 +1,19 @@
 ---
-title: "Copper Kettle"
+title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Copper Kettle</font></td></tr></table>"
 ---
+<body style="background-color:LightCyan">
 
-Beer Cheese Spread...
+#Spreads & Cheeseballs
+- Beer Cheese
+- Benedictine
+- Country Ham Cheese Balls
+- Seafood Cheese Balls
+
+#Specialty & Breaded
+- Breaded Green Tomatoes
+- Breaded Pickles
+- Breaded Cod Filets
+- Breaded Oysters and Rolled Oysters
+- Crab Cakes and Salmon Patties
+
+</body>

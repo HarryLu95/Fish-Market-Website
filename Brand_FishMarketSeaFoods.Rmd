@@ -1,10 +1,10 @@
 ---
 title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)"
 ---
-<body style="background-color:LightSkyBlue">
-
-<table style="margin-left: auto; margin-right: auto; width: 100%">
-<tr style="text-align: center">
+<body style="background-color:LightCyan">
+[comment]: <> (LightSkyBlue)
+<table style="margin-left:auto; margin-right:auto; width:100%">
+<tr style="text-align:center; vertical-align:bottom">
 <td bgcolor=gold>
 <font color=blue size=72>SEAFOOD IS WHERE WE STARTED!</font>
 </td>
@@ -16,7 +16,6 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 ---
 
 #SeaFood
-- <font color=black size=4>Short as **SF**</font>
 - ##[Fresh Fish](#sf-fresh-fish)
 - ##[Fresh Shellfish Meat](#sf-fresh-shellfish-meat)
 - ##[Live Shellfish](#sf-live-shellfish)
@@ -40,20 +39,17 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 ---
 
 #Beef
-- <font color=black size=4>Short as **BF**</font>
 - ##[Primal Cuts](#bf-primal-cuts)
 - ##[Portion Cuts](#bf-portion-cuts)
 - ##[Other Cuts](#bf-other-cuts)
 - ##[Ground Beef and Specialty Products](#bf-ground-beef-and-specialty-products)
 
 #Pork
-- <font color=black size=4>Short as **PK**</font>
 - ##[Primal Cuts](#pk-primal-cuts)
 - ##[Portion Cuts](#pk-portion-cuts)
 - ##[Hams, Bacon, and Sausage](#pk-hams-bacon-sausage)
 
 #Poultry
-- <font color=black size=4>Short as **P**</font>
 - ##[Chicken](#p-chicken)
 - ##[Turkey](#p-turkey)
 - ##[Other](#p-other)

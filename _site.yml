@@ -1,7 +1,6 @@
 name: "Fish Market"
 output_dir: "."
 navbar:
-#try to add pictures
   title: "FishMarket Inc."
   left:
     - text: "Home"
@@ -28,5 +27,5 @@ navbar:
       href: Contact.html
 output:
   html_document:
-    theme: flatly
+    theme: cerulean
     css: style.css

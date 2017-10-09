@@ -1,0 +1,7 @@
+cd C:/Users/thinkpad/Documents/Github/Fish-Market-Website
+
+git add _site.yml
+git add *
+
+git commit -m "balabalabala"
+git push

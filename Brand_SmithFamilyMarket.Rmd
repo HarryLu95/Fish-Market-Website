@@ -1,5 +1,8 @@
 ---
-title: "Smith's Family Market"
+title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Smith's Family Market</font></td></tr></table>"
 ---
+<body style="background-color:LightCyan">
 
-Breaded Green Tomatoes...
+#Specialties
+
+</body>
