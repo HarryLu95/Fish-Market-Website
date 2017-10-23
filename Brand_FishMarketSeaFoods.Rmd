@@ -1,8 +1,6 @@
 ---
 title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)"
 ---
-<body style="background-color:LightCyan">
-[comment]: <> (LightSkyBlue)
 <table style="margin-left:auto; margin-right:auto; width:100%">
 <tr style="text-align:center; vertical-align:bottom">
 <td bgcolor=gold>
@@ -11,7 +9,7 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 </tr>
 </table>
 
-</body>
+<div id="backtop"><a href="#">TOP</a></div>
 
 ---
 
@@ -24,8 +22,6 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 
 ---
 
-<body>
-
 <table style="margin-left: auto; margin-right: auto; width: 100%">
 <tr style="text-align: center">
 <td bgcolor=gold>
@@ -34,7 +30,36 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 </tr>
 </table>
 
-</body>
+---
+
+<div class="three-column">
+
+#Beef
+- ##[Primal Cuts](#bf-primal-cuts)
+- ##[Portion Cuts](#bf-portion-cuts)
+- ##[Other Cuts](#bf-other-cuts)
+- ##[Ground Beef and Specialty Products](#bf-ground-beef-and-specialty-products)
+
+#Pork
+- ##[Primal Cuts](#pk-primal-cuts)
+- ##[Portion Cuts](#pk-portion-cuts)
+- ##[Hams, Bacon, and Sausage](#pk-hams-bacon-sausage)
+
+#Poultry
+- ##[Chicken](#p-chicken)
+- ##[Turkey](#p-turkey)
+- ##[Other](#p-other)
+
+#Veal
+- ##[Primal Cuts](#veal-primal-cuts)
+- ##[Portions and Specialty Cuts](#veal-portions-and-specialty-cuts)
+
+#Lamb
+- <font color=black size=4>We provide both Imported and Domestic</font>
+- ##[Primal Cuts](#lamb-primal-cuts)
+- ##[Portions and Specialty Cuts](#lamb-portions-and-specialty-cuts)
+
+</div>
 
 ---
 

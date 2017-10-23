@@ -1,8 +1,50 @@
 ---
-title: "We are Smith's Family Market"
+title: <center>We are Smith's Family Market</center>
 ---
-<body style="background-color:LightCyan">
+<body>
 
-Hello, Customer!
+<div id="backtop"><a href="#">TOP</a></div>
+
+#Hello, Customer!
+
+<div class="box">
+![Smith's Family Market](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)
+</div>
+
+<div class="box">
+![Smith's Family Market](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)
+</div>
+
+---
+
+<nav>
+
+- Home
+
+- About Us
+
+- Our Branches
+
+- Specialty Products
+
+- Contact
+
+</nav>
+
+<section>
+
+balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala
+
+</section>
+
+<section>
+
+**balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala**
+
+</section>
+
+
+
+
 
 </body>
