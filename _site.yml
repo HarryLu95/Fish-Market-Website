@@ -28,4 +28,5 @@ navbar:
 output:
   html_document:
     theme: cerulean
+    highlight: tango
     css: style.css

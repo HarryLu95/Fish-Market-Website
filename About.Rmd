@@ -1,8 +1,31 @@
----
-title: "About Us"
----
-<body>
+<div id="backtop"><a href="#">TOP</a></div>
 
-Our history
+#About Us {.tabset}
 
-</body>
+##History
+- more history
+
+#Our Location
+<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td><font color=black size=6>*1406 West Chestnut St, Louisville, KY 40203*</font></td></tr></table>
+
+<style>
+img {
+  width: 2000px;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+```{r,echo=FALSE,warning=FALSE,message=FALSE}
+library(ggmap)
+mapImageData=get_map(location=c(lon=-85.7750,lat=38.2505),
+                     color="color",
+                     source="google",
+                     maptype="roadmap",
+                     zoom=17)
+ggmap(mapImageData,
+      extent="device",
+      ylab="Latitude",
+      xlab="Longitude")
+```
+

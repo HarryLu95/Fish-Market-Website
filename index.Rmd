@@ -1,18 +1,46 @@
 ---
 title: <center>We are Smith's Family Market</center>
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
-<body>
-
 <div id="backtop"><a href="#">TOP</a></div>
 
-#Hello, Customer!
+#What We Make
 
 <div class="box">
-![Smith's Family Market](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>FishMarket SeaFoods</center>
 </div>
 
 <div class="box">
-![Smith's Family Market](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Smith's Family Market</center>
+</div>
+
+<div class="box">
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Copper Kettle</center>
+</div>
+
+---
+
+#What We Distribute
+
+<div class="box">
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Kentucky Proud Local Items</center>
+</div>
+
+<div class="box">
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Syracuse Sausages</center>
+</div>
+
+<div class="box">
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Springer Mountain Farms</center>
 </div>
 
 ---
@@ -42,9 +70,3 @@ balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalaba
 **balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala**
 
 </section>
-
-
-
-
-
-</body>

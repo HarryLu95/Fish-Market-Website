@@ -11,7 +11,7 @@
 
 
 
-<title>Fish Market Sea Foods</title>
+<title></title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,23 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
-<script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
-}
-</script>
 
 
 
@@ -162,6 +150,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -239,116 +322,29 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><img src="https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en" title="fig:" alt="Fish Market Sea Foods" /></h1>
+<h1 class="title toc-ignore"><img src="https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en" alt="Fish Market Sea Foods" />
+<center>
+LOGO
+</center></h1>
 
 </div>
 
 
-<table style="margin-left:auto; margin-right:auto; width:100%">
-<tr style="text-align:center; vertical-align:bottom">
-<td bgcolor="gold">
-<font color=blue size=72>SEAFOOD IS WHERE WE STARTED!</font>
-</td>
-</tr>
-</table>
 <div id="backtop">
 <a href="#">TOP</a>
 </div>
-<hr />
-<div id="seafood" class="section level1">
-<h1>SeaFood</h1>
-<ul>
-<li><h2 id="fresh-fish"><a href="#sf-fresh-fish">Fresh Fish</a></h2></li>
-<li><h2 id="fresh-shellfish-meat"><a href="#sf-fresh-shellfish-meat">Fresh Shellfish Meat</a></h2></li>
-<li><h2 id="live-shellfish"><a href="#sf-live-shellfish">Live Shellfish</a></h2></li>
-<li><h2 id="frozen-seafood"><a href="#sf-frozen-seafood">Frozen Seafood</a></h2></li>
-<li><h2 id="shrimp-all-sizes"><a href="#sf-shrimp-all-sizes">Shrimp (All Sizes)</a></h2></li>
-</ul>
-<hr />
-<table style="margin-left: auto; margin-right: auto; width: 100%">
-<tr style="text-align: center">
-<td bgcolor="gold">
-<font color=blue size=72>NOT JUST SEAFOOD ANYMORE!</font>
+<table style="margin-left:auto; margin-right:auto; width:100%">
+<tr style="text-align:center; vertical-align:bottom">
+<td bgcolor="white">
+<font color=DarkGoldenrod size=72><em>SEAFOOD IS WHERE WE STARTED!</em></font>
 </td>
 </tr>
 </table>
-<hr />
+<div id="seafood" class="section level1">
+<h1><strong>Seafood</strong></h1>
+<div id="fresh-fish" class="section level2">
+<h2><em>Fresh Fish</em></h2>
 <div class="three-column">
-<h1 id="beef">Beef</h1>
-<ul>
-<li><h2 id="primal-cuts"><a href="#bf-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portion-cuts"><a href="#bf-portion-cuts">Portion Cuts</a></h2></li>
-<li><h2 id="other-cuts"><a href="#bf-other-cuts">Other Cuts</a></h2></li>
-<li><h2 id="ground-beef-and-specialty-products"><a href="#bf-ground-beef-and-specialty-products">Ground Beef and Specialty Products</a></h2></li>
-</ul>
-<h1 id="pork">Pork</h1>
-<ul>
-<li><h2 id="primal-cuts-1"><a href="#pk-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portion-cuts-1"><a href="#pk-portion-cuts">Portion Cuts</a></h2></li>
-<li><h2 id="hams-bacon-and-sausage"><a href="#pk-hams-bacon-sausage">Hams, Bacon, and Sausage</a></h2></li>
-</ul>
-<h1 id="poultry">Poultry</h1>
-<ul>
-<li><h2 id="chicken"><a href="#p-chicken">Chicken</a></h2></li>
-<li><h2 id="turkey"><a href="#p-turkey">Turkey</a></h2></li>
-<li><h2 id="other"><a href="#p-other">Other</a></h2></li>
-</ul>
-<h1 id="veal">Veal</h1>
-<ul>
-<li><h2 id="primal-cuts-2"><a href="#veal-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portions-and-specialty-cuts"><a href="#veal-portions-and-specialty-cuts">Portions and Specialty Cuts</a></h2></li>
-</ul>
-<h1 id="lamb">Lamb</h1>
-<ul>
-<li><font color=black size=4>We provide both Imported and Domestic</font></li>
-<li><h2 id="primal-cuts-3"><a href="#lamb-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portions-and-specialty-cuts-1"><a href="#lamb-portions-and-specialty-cuts">Portions and Specialty Cuts</a></h2></li>
-</ul>
-</div>
-<hr />
-</div>
-<div id="beef-1" class="section level1">
-<h1>Beef</h1>
-<ul>
-<li><h2 id="primal-cuts-4"><a href="#bf-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portion-cuts-2"><a href="#bf-portion-cuts">Portion Cuts</a></h2></li>
-<li><h2 id="other-cuts-1"><a href="#bf-other-cuts">Other Cuts</a></h2></li>
-<li><h2 id="ground-beef-and-specialty-products-1"><a href="#bf-ground-beef-and-specialty-products">Ground Beef and Specialty Products</a></h2></li>
-</ul>
-</div>
-<div id="pork-1" class="section level1">
-<h1>Pork</h1>
-<ul>
-<li><h2 id="primal-cuts-5"><a href="#pk-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portion-cuts-3"><a href="#pk-portion-cuts">Portion Cuts</a></h2></li>
-<li><h2 id="hams-bacon-and-sausage-1"><a href="#pk-hams-bacon-sausage">Hams, Bacon, and Sausage</a></h2></li>
-</ul>
-</div>
-<div id="poultry-1" class="section level1">
-<h1>Poultry</h1>
-<ul>
-<li><h2 id="chicken-1"><a href="#p-chicken">Chicken</a></h2></li>
-<li><h2 id="turkey-1"><a href="#p-turkey">Turkey</a></h2></li>
-<li><h2 id="other-1"><a href="#p-other">Other</a></h2></li>
-</ul>
-</div>
-<div id="veal-1" class="section level1">
-<h1>Veal</h1>
-<ul>
-<li><h2 id="primal-cuts-6"><a href="#veal-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portions-and-specialty-cuts-2"><a href="#veal-portions-and-specialty-cuts">Portions and Specialty Cuts</a></h2></li>
-</ul>
-</div>
-<div id="lamb-1" class="section level1">
-<h1>Lamb</h1>
-<ul>
-<li><font color=black size=4>We provide both Imported and Domestic</font></li>
-<li><h2 id="primal-cuts-7"><a href="#lamb-primal-cuts">Primal Cuts</a></h2></li>
-<li><h2 id="portions-and-specialty-cuts-3"><a href="#lamb-portions-and-specialty-cuts">Portions and Specialty Cuts</a></h2></li>
-</ul>
-<hr />
-<div id="sf-fresh-fish" class="section level2">
-<h2><a href="#seafood">SF Fresh Fish</a></h2>
 <ul>
 <li>Artic Char</li>
 <li>Barramundi</li>
@@ -383,16 +379,20 @@ $(document).ready(function () {
 <li>Whitefish</li>
 </ul>
 </div>
-<div id="sf-fresh-shellfish-meat" class="section level2">
-<h2><a href="#seafood">SF Fresh Shellfish Meat</a></h2>
+</div>
+<div id="fresh-shellfish-meat" class="section level2">
+<h2><em>Fresh Shellfish Meat</em></h2>
+<div class="three-column">
 <ul>
 <li>East Coast Oyster (gallons &amp; cups)</li>
 <li>Crab Meat</li>
 <li>Frying Clams</li>
 </ul>
 </div>
-<div id="sf-live-shellfish" class="section level2">
-<h2><a href="#seafood">SF Live Shellfish</a></h2>
+</div>
+<div id="live-shellfish" class="section level2">
+<h2><em>Live Shellfish</em></h2>
+<div class="three-column">
 <ul>
 <li>Canadian Hard Shell Lobsters</li>
 <li>East Coast Shell Oysters</li>
@@ -402,8 +402,10 @@ $(document).ready(function () {
 <li>Cherry stone Clams</li>
 </ul>
 </div>
-<div id="sf-frozen-seafood" class="section level2">
-<h2><a href="#seafood">SF Frozen Seafood</a></h2>
+</div>
+<div id="frozen-seafood" class="section level2">
+<h2><em>Frozen Seafood</em></h2>
+<div class="three-column">
 <ul>
 <li>Cod</li>
 <li>Catfish</li>
@@ -428,17 +430,31 @@ $(document).ready(function () {
 <li>King fish</li>
 </ul>
 </div>
-<div id="sf-shrimp-all-sizes" class="section level2">
-<h2><a href="#seafood">SF Shrimp All Sizes</a></h2>
+</div>
+<div id="shrimp-all-sizes" class="section level2">
+<h2>Shrimp (All Sizes)</h2>
+<div class="three-column">
 <ul>
 <li>Cooked Peeled and Deveined</li>
 <li>Raw Peeled and Deveined</li>
 <li>Raw Shell on Tigers, Venemei Whites, Domestic</li>
 </ul>
-<hr />
 </div>
-<div id="bf-primal-cuts" class="section level2">
-<h2><a href="#beef">BF Primal Cuts</a></h2>
+<hr />
+<table style="margin-left: auto; margin-right: auto; width: 100%">
+<tr style="text-align: center">
+<td bgcolor="white">
+<font color=DarkGoldenrod size=72><em>NOT JUST SEAFOOD ANYMORE!</em></font>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="beef" class="section level1">
+<h1><strong>Beef</strong></h1>
+<div id="primal-cuts" class="section level2">
+<h2><em>Primal Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Steamship Rounds</li>
 <li>Top Rounds</li>
@@ -458,8 +474,10 @@ $(document).ready(function () {
 <li>Chuck Roll</li>
 </ul>
 </div>
-<div id="bf-portion-cuts" class="section level2">
-<h2><a href="#beef">BF Portion Cuts</a></h2>
+</div>
+<div id="portion-cuts" class="section level2">
+<h2><em>Portion Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Top Sirloin Steaks CC</li>
 <li>Top Sirloin Steaks</li>
@@ -474,8 +492,10 @@ $(document).ready(function () {
 <li>BI Ribeye Steaks</li>
 </ul>
 </div>
-<div id="bf-other-cuts" class="section level2">
-<h2><a href="#beef">BF Other Cuts</a></h2>
+</div>
+<div id="other-cuts" class="section level2">
+<h2><em>Other Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Beef Cube Steaks</li>
 <li>Flat Iron Steak</li>
@@ -485,17 +505,24 @@ $(document).ready(function () {
 <li>Short Ribs</li>
 </ul>
 </div>
-<div id="bf-ground-beef-and-specialty-products" class="section level2">
-<h2><a href="#beef">BF Ground Beef and Specialty Products</a></h2>
+</div>
+<div id="ground-beef-and-specialty-products" class="section level2">
+<h2><em>Ground Beef and Specialty Products</em></h2>
+<div class="three-column">
 <ul>
 <li>Bulk Ground Beef</li>
 <li>Beef Patties</li>
 <li>Tripe, Oxtails</li>
 </ul>
+</div>
 <hr />
 </div>
-<div id="pk-primal-cuts" class="section level2">
-<h2><a href="#pork">PK Primal Cuts</a></h2>
+</div>
+<div id="pork" class="section level1">
+<h1><strong>Pork</strong></h1>
+<div id="primal-cuts-1" class="section level2">
+<h2><em>Primal Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>BI Pork Loins</li>
 <li>BI CC Pork Loins</li>
@@ -508,8 +535,10 @@ $(document).ready(function () {
 <li>Baby Back Ribs</li>
 </ul>
 </div>
-<div id="pk-portion-cuts" class="section level2">
-<h2><a href="#pork">PK Portion Cuts</a></h2>
+</div>
+<div id="portion-cuts-1" class="section level2">
+<h2><em>Portion Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>CC BI Pork Chops</li>
 <li>BI Pork Chops</li>
@@ -517,8 +546,10 @@ $(document).ready(function () {
 <li>Pork Cutlets</li>
 </ul>
 </div>
-<div id="pk-hams-bacon-sausage" class="section level2">
-<h2><a href="#pork">PK Hams Bacon Sausage</a></h2>
+</div>
+<div id="hams-bacon-and-sausage" class="section level2">
+<h2><em>Hams, Bacon, and Sausage</em></h2>
+<div class="three-column">
 <ul>
 <li>Boneless Pitt Ham</li>
 <li>BI Smoked Ham</li>
@@ -536,10 +567,15 @@ $(document).ready(function () {
 <li>Bratwurst / Italian / Polish Sausage</li>
 <li>Hot Dogs</li>
 </ul>
+</div>
 <hr />
 </div>
-<div id="p-chicken" class="section level2">
-<h2><a href="#poultry">P Chicken</a></h2>
+</div>
+<div id="poultry" class="section level1">
+<h1><strong>Poultry</strong></h1>
+<div id="chicken" class="section level2">
+<h2><em>Chicken</em></h2>
+<div class="three-column">
 <ul>
 <li>Whole Fryers</li>
 <li>Cut Up Fryers</li>
@@ -552,32 +588,43 @@ $(document).ready(function () {
 <li>Br. Chicken Patties, Tenders and Nuggets</li>
 </ul>
 </div>
-<div id="p-turkey" class="section level2">
-<h2><a href="#poultry">P Turkey</a></h2>
+</div>
+<div id="turkey" class="section level2">
+<h2><em>Turkey</em></h2>
+<div class="three-column">
 <ul>
 <li>Turkey Breasts</li>
 <li>Tom Turkeys</li>
 <li>Smoked Turkeys</li>
 </ul>
 </div>
-<div id="p-other" class="section level2">
-<h2><a href="#poultry">P Other</a></h2>
+</div>
+<div id="other" class="section level2">
+<h2><em>Other</em></h2>
+<div class="three-column">
 <ul>
 <li>Ducks</li>
 <li>Quail</li>
 </ul>
+</div>
 <hr />
 </div>
-<div id="veal-primal-cuts" class="section level2">
-<h2><a href="#veal">Veal Primal Cuts</a></h2>
+</div>
+<div id="veal" class="section level1">
+<h1><strong>Veal</strong></h1>
+<div id="primal-cuts-2" class="section level2">
+<h2><em>Primal Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Racks</li>
 <li>Legs</li>
 <li>Loins</li>
 </ul>
 </div>
-<div id="veal-portions-and-specialty-cuts" class="section level2">
-<h2><a href="#veal">Veal Portions and Specialty Cuts</a></h2>
+</div>
+<div id="portions-and-specialty-cuts" class="section level2">
+<h2><em>Portions and Specialty Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Chops</li>
 <li>Scallopini</li>
@@ -586,27 +633,40 @@ $(document).ready(function () {
 <li>Ground Veal</li>
 <li>Stew Veal</li>
 </ul>
+</div>
 <hr />
 </div>
-<div id="lamb-primal-cuts" class="section level2">
-<h2><a href="#lamb">Lamb Primal Cuts</a></h2>
+</div>
+<div id="lamb" class="section level1">
+<h1><strong>Lamb</strong></h1>
+<ul>
+<li><font color=black size=4>We provide both Imported and Domestic</font></li>
+</ul>
+<div id="primal-cuts-3" class="section level2">
+<h2><em>Primal Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Racks</li>
 <li>Legs (B/I and Semi-Boneless)</li>
 <li>Loins</li>
 </ul>
 </div>
-<div id="lamb-portions-and-specialty-cuts" class="section level2">
-<h2><a href="#lamb">Lamb Portions and Specialty Cuts</a></h2>
+</div>
+<div id="portions-and-specialty-cuts-1" class="section level2">
+<h2><em>Portions and Specialty Cuts</em></h2>
+<div class="three-column">
 <ul>
 <li>Chops</li>
 <li>Ground Lamb</li>
 </ul>
 </div>
 </div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 

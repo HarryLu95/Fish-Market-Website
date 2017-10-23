@@ -1,7 +1,7 @@
 ---
 title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Copper Kettle</font></td></tr></table>"
 ---
-<body>
+<div id="backtop"><a href="#">TOP</a></div>
 
 #Spreads & Cheeseballs
 - Beer Cheese
@@ -15,5 +15,3 @@ title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr st
 - Breaded Cod Filets
 - Breaded Oysters and Rolled Oysters
 - Crab Cakes and Salmon Patties
-
-</body>

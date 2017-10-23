@@ -1,96 +1,25 @@
 ---
-title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)"
+title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)<center>LOGO</center>"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
-<table style="margin-left:auto; margin-right:auto; width:100%">
-<tr style="text-align:center; vertical-align:bottom">
-<td bgcolor=gold>
-<font color=blue size=72>SEAFOOD IS WHERE WE STARTED!</font>
-</td>
-</tr>
-</table>
-
 <div id="backtop"><a href="#">TOP</a></div>
 
----
-
-#SeaFood
-- ##[Fresh Fish](#sf-fresh-fish)
-- ##[Fresh Shellfish Meat](#sf-fresh-shellfish-meat)
-- ##[Live Shellfish](#sf-live-shellfish)
-- ##[Frozen Seafood](#sf-frozen-seafood)
-- ##[Shrimp (All Sizes)](#sf-shrimp-all-sizes)
-
----
-
-<table style="margin-left: auto; margin-right: auto; width: 100%">
-<tr style="text-align: center">
-<td bgcolor=gold>
-<font color=blue size=72>NOT JUST SEAFOOD ANYMORE!</font>
+<table style="margin-left:auto; margin-right:auto; width:100%">
+<tr style="text-align:center; vertical-align:bottom">
+<td bgcolor=white>
+<font color=DarkGoldenrod size=72>*SEAFOOD IS WHERE WE STARTED!*</font>
 </td>
 </tr>
 </table>
 
----
+#**Seafood**
+##*Fresh Fish*
 
 <div class="three-column">
 
-#Beef
-- ##[Primal Cuts](#bf-primal-cuts)
-- ##[Portion Cuts](#bf-portion-cuts)
-- ##[Other Cuts](#bf-other-cuts)
-- ##[Ground Beef and Specialty Products](#bf-ground-beef-and-specialty-products)
-
-#Pork
-- ##[Primal Cuts](#pk-primal-cuts)
-- ##[Portion Cuts](#pk-portion-cuts)
-- ##[Hams, Bacon, and Sausage](#pk-hams-bacon-sausage)
-
-#Poultry
-- ##[Chicken](#p-chicken)
-- ##[Turkey](#p-turkey)
-- ##[Other](#p-other)
-
-#Veal
-- ##[Primal Cuts](#veal-primal-cuts)
-- ##[Portions and Specialty Cuts](#veal-portions-and-specialty-cuts)
-
-#Lamb
-- <font color=black size=4>We provide both Imported and Domestic</font>
-- ##[Primal Cuts](#lamb-primal-cuts)
-- ##[Portions and Specialty Cuts](#lamb-portions-and-specialty-cuts)
-
-</div>
-
----
-
-#Beef
-- ##[Primal Cuts](#bf-primal-cuts)
-- ##[Portion Cuts](#bf-portion-cuts)
-- ##[Other Cuts](#bf-other-cuts)
-- ##[Ground Beef and Specialty Products](#bf-ground-beef-and-specialty-products)
-
-#Pork
-- ##[Primal Cuts](#pk-primal-cuts)
-- ##[Portion Cuts](#pk-portion-cuts)
-- ##[Hams, Bacon, and Sausage](#pk-hams-bacon-sausage)
-
-#Poultry
-- ##[Chicken](#p-chicken)
-- ##[Turkey](#p-turkey)
-- ##[Other](#p-other)
-
-#Veal
-- ##[Primal Cuts](#veal-primal-cuts)
-- ##[Portions and Specialty Cuts](#veal-portions-and-specialty-cuts)
-
-#Lamb
-- <font color=black size=4>We provide both Imported and Domestic</font>
-- ##[Primal Cuts](#lamb-primal-cuts)
-- ##[Portions and Specialty Cuts](#lamb-portions-and-specialty-cuts)
-
----
-
-##[SF Fresh Fish](#seafood)
 - Artic Char
 - Barramundi
 - Blue Marlin
@@ -123,12 +52,22 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Walleye
 - Whitefish
 
-##[SF Fresh Shellfish Meat](#seafood)
+</div>
+
+##*Fresh Shellfish Meat*
+
+<div class="three-column">
+
 - East Coast Oyster (gallons & cups)
 - Crab Meat
 - Frying Clams
 
-##[SF Live Shellfish](#seafood)
+</div>
+
+##*Live Shellfish*
+
+<div class="three-column">
+
 - Canadian Hard Shell Lobsters
 - East Coast Shell Oysters
 - Canadian Shell Oysters
@@ -136,7 +75,12 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Little Neck Clams
 - Cherry stone Clams
 
-##[SF Frozen Seafood](#seafood)
+</div>
+
+##*Frozen Seafood*
+
+<div class="three-column">
+
 - Cod
 - Catfish
 - Perch
@@ -159,14 +103,33 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Shark
 - King fish
 
-##[SF Shrimp All Sizes](#seafood)
+</div>
+
+##Shrimp (All Sizes)
+
+<div class="three-column">
+
 - Cooked Peeled and Deveined
 - Raw Peeled and Deveined
 - Raw Shell on Tigers, Venemei Whites, Domestic
 
+</div>
+
 ---
 
-##[BF Primal Cuts](#beef)
+<table style="margin-left: auto; margin-right: auto; width: 100%">
+<tr style="text-align: center">
+<td bgcolor=white>
+<font color=DarkGoldenrod size=72>*NOT JUST SEAFOOD ANYMORE!*</font>
+</td>
+</tr>
+</table>
+
+#**Beef**
+##*Primal Cuts*
+
+<div class="three-column">
+
 - Steamship Rounds
 - Top Rounds
 - Bottom Rounds
@@ -184,7 +147,12 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Clod, Flat Iron
 - Chuck Roll
 
-##[BF Portion Cuts](#beef)
+</div>
+
+##*Portion Cuts*
+
+<div class="three-column">
+
 - Top Sirloin Steaks CC
 - Top Sirloin Steaks
 - NY Strip Steaks CC
@@ -197,7 +165,12 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Delmonico Steaks
 - BI Ribeye Steaks
 
-##[BF Other Cuts](#beef)
+</div>
+
+##*Other Cuts*
+
+<div class="three-column">
+
 - Beef Cube Steaks
 - Flat Iron Steak
 - Stew Meat
@@ -205,14 +178,25 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Butt tenders
 - Short Ribs
 
-##[BF Ground Beef and Specialty Products](#beef)
+</div>
+
+##*Ground Beef and Specialty Products*
+
+<div class="three-column">
+
 - Bulk Ground Beef
 - Beef Patties
 - Tripe, Oxtails
 
+</div>
+
 ---
 
-##[PK Primal Cuts](#pork)
+#**Pork**
+##*Primal Cuts*
+
+<div class="three-column">
+
 - BI Pork Loins
 - BI CC Pork Loins
 - Boneless Pork Loins
@@ -223,13 +207,23 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Spare Ribs
 - Baby Back Ribs
 
-##[PK Portion Cuts](#pork)
+</div>
+
+##*Portion Cuts*
+
+<div class="three-column">
+
 - CC BI Pork Chops
 - BI Pork Chops
 - Boneless Pork Chops
 - Pork Cutlets
 
-##[PK Hams Bacon Sausage](#pork)
+</div>
+
+##*Hams, Bacon, and Sausage*
+
+<div class="three-column">
+
 - Boneless Pitt Ham
 - BI Smoked Ham
 - Spiral Ham
@@ -246,9 +240,15 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Bratwurst / Italian / Polish Sausage
 - Hot Dogs
 
+</div>
+
 ---
 
-##[P Chicken](#poultry)
+#**Poultry**
+##*Chicken*
+
+<div class="three-column">
+
 - Whole Fryers
 - Cut Up Fryers
 - Fresh Random Skinless/Boneless Breasts
@@ -259,23 +259,44 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Drums
 - Br. Chicken Patties, Tenders and Nuggets
 
-##[P Turkey](#poultry)
+</div>
+
+##*Turkey*
+
+<div class="three-column">
+
 - Turkey Breasts
 - Tom Turkeys
 - Smoked Turkeys
 
-##[P Other](#poultry)
+</div>
+
+##*Other*
+
+<div class="three-column">
+
 - Ducks
 - Quail
 
+</div>
+
 ---
 
-##[Veal Primal Cuts](#veal)
+#**Veal**
+##*Primal Cuts*
+
+<div class="three-column">
+
 - Racks
 - Legs
 - Loins
 
-##[Veal Portions and Specialty Cuts](#veal)
+</div>
+
+##*Portions and Specialty Cuts*
+
+<div class="three-column">
+
 - Chops
 - Scallopini
 - Leg Slices
@@ -283,13 +304,28 @@ title: "![Fish Market Sea Foods](https://www.seafoodwatch.org/-/m/sfw/images/fis
 - Ground Veal
 - Stew Veal
 
+</div>
+
 ---
 
-##[Lamb Primal Cuts](#lamb)
+#**Lamb**
+- <font color=black size=4>We provide both Imported and Domestic</font>
+
+##*Primal Cuts*
+
+<div class="three-column">
+
 - Racks
 - Legs (B/I and Semi-Boneless)
 - Loins
 
-##[Lamb Portions and Specialty Cuts](#lamb)
+</div>
+
+##*Portions and Specialty Cuts*
+
+<div class="three-column">
+
 - Chops
 - Ground Lamb
+
+</div>
