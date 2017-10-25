@@ -1,6 +1,7 @@
 ---
-title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Smith's Family Market</font></td></tr></table>"
+title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=white><font color=blue size=36>Smith's Family Market (logo)</font></td></tr></table>"
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 
 #Specialties
+- Breaded Foods

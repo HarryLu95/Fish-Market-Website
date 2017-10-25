@@ -1,7 +1,8 @@
-name: "Fish Market"
+name: "Fishmarket"
 output_dir: "."
 navbar:
-  title: "FishMarket Inc."
+  title: <font face="Algerian">FISHMARKET INC.</font>
+  type: default
   left:
     - text: "Home"
       href: index.html
@@ -9,8 +10,10 @@ navbar:
       href: About.html
     - text: "Our Branches"
       menu:
-        - text: "FishMarket SeaFoods"
+        - text: "Fishmarket Seafoods"
         - href: Brand_FishMarketSeaFoods.html
+        - text: "Red River Steaks"
+        - href: Brand_RedRiverSteaks.html
         - text: "Smith's Family Market"
         - href: Brand_SmithFamilyMarket.html
         - text: "Copper Kettle"
@@ -19,14 +22,10 @@ navbar:
       menu:
         - text: "Kentucky Proud Local Items"
         - href: Splty_KentuckyProud.html
-        - text: "Syracuse Sausages"
-        - href: Splty_Syracuses.html
-        - text: "Springer Mountain Farms"
-        - href: Splty_SpringerMountainFarms.html
     - text: "Contact"
       href: Contact.html
 output:
   html_document:
     theme: cerulean
-    highlight: tango
+    highlight: default
     css: style.css

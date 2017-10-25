@@ -1,4 +1,4 @@
 ---
 title: "![Contact Information](https://cdn3.iconfinder.com/data/icons/gray-toolbar-3/512/call-512.png)"
 ---
-<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td><font color=black size=36>To Order Call 502-587-7474</font></td></tr></table>
+<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td><font color=black size=36>To Order, Call 502-587-7474</font></td></tr></table>

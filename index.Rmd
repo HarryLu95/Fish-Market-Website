@@ -1,5 +1,5 @@
 ---
-title: <center>We are Smith's Family Market</center>
+title: <center><font face="Algerian" size=12>FISHMARKET INC.</font></center>
 output: 
   html_document:
     toc: true
@@ -7,11 +7,18 @@ output:
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 
+---
+
 #What We Make
 
 <div class="box">
 ![](http://pngb.mypng.cn/2354/fish.png)
-<center>FishMarket SeaFoods</center>
+<center>Fishmarket Seafoods</center>
+</div>
+
+<div class="box">
+![](http://pngb.mypng.cn/2354/fish.png)
+<center>Red River Steaks</center>
 </div>
 
 <div class="box">
@@ -35,12 +42,7 @@ output:
 
 <div class="box">
 ![](http://pngb.mypng.cn/2354/fish.png)
-<center>Syracuse Sausages</center>
-</div>
-
-<div class="box">
-![](http://pngb.mypng.cn/2354/fish.png)
-<center>Springer Mountain Farms</center>
+<center>More</center>
 </div>
 
 ---
