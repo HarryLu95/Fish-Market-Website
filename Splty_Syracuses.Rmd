@@ -1,6 +1,0 @@
----
-title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=gold><font color=blue size=36>Syracuse Sausages</font></td></tr></table>"
----
-<div id="backtop"><a href="#">TOP</a></div>
-
-#Hello! Sausages!
