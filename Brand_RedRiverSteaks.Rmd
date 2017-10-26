@@ -6,16 +6,19 @@ output:
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<div id="backhome"><a href="index.html">HOME</a></div>
 
 <table style="margin-left: auto; margin-right: auto; width: 100%">
 <tr style="text-align: center">
 <td bgcolor=white>
-<font color=DarkGoldenrod size=72>*NOT JUST SEAFOOD ANYMORE!*</font>
+<font color=DarkGoldenrod size=7>*NOT JUST SEAFOOD ANYMORE!*</font>
 </td>
 </tr>
 </table>
 
-#**Beef**
+<br>
+
+#<font size=7>**Beef**</font>
 ##*Primal Cuts*
 
 <div class="three-column">
@@ -82,7 +85,7 @@ output:
 
 ---
 
-#**Pork**
+#<font size=7>**Pork**</font>
 ##*Primal Cuts*
 
 <div class="three-column">
@@ -134,7 +137,7 @@ output:
 
 ---
 
-#**Poultry**
+#<font size=7>**Poultry**</font>
 ##*Chicken*
 
 <div class="three-column">
@@ -172,7 +175,7 @@ output:
 
 ---
 
-#**Veal**
+#<font size=7>**Veal**</font>
 ##*Primal Cuts*
 
 <div class="three-column">
@@ -198,7 +201,7 @@ output:
 
 ---
 
-#**Lamb**
+#<font size=7>**Lamb**</font>
 - <font color=black size=4>We provide both Imported and Domestic</font>
 
 ##*Primal Cuts*

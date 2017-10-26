@@ -6,6 +6,7 @@ output:
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<div id="backhome"><a href="index.html">HOME</a></div>
 
 <br>
 
@@ -13,36 +14,45 @@ output:
 
 <div class="box">
 <a href="Brand_FishMarketSeaFoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
-<center>Fishmarket Seafoods</center>
+
+<center><font size=5>Fishmarket Seafoods</font></center>
 </div>
 
 <div class="box">
 <a href="Brand_RedRiverSteaks.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Red_River_Steaks.jpg)</a>
-<center>Red River Steaks</center>
+
+<br>
+<center><font size=5>Red River Steaks</font></center>
+<br>
 </div>
 
 <div class="box">
 <a href="Brand_SmithFamilyMarket.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png)</a>
-<center>Smith's Family Market</center>
+
+<br>
+<center><font size=5>Smith's Family Market</font></center>
 </div>
 
 <div class="box">
 <a href="Brand_CopperKettle.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)</a>
-<center>Copper Kettle</center>
+
+<center><font size=5>Copper Kettle</font></center>
 </div>
 
 ---
 
-#What We Distribute
+#<font face="Brush Script MT" size=10>What We Distribute</font>
 
 <div class="box">
 <a href="Splty_KentuckyProud.html">![](http://www.kyproud.com/img/logo-fb.jpg)</a>
-<center>Kentucky Proud Local Items</center>
+
+<center><font size=5>Kentucky Proud Local Items</font></center>
 </div>
 
 <div class="box">
 ![](http://pngb.mypng.cn/2354/fish.png)
-<center>More</center>
+
+<center><font size=5>More</font></center>
 </div>
 
 ---

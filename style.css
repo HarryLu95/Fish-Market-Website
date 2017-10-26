@@ -1,14 +1,14 @@
-/*-------------LightCyan------------*/
+/*-------------背景颜色-------------*/
 body {
-  background-color:White
+  background-color: white;
 }
-/*-------------------------*/
+/*-------------图片大小-------------*/
 img {
   width: 200px;
   display: block;
   margin: 0 auto;
 }
-/*-------------------------*/
+/*-------------脚标设置-------------*/
 footer {
   position: fixed;
   bottom: 0;
@@ -17,14 +17,14 @@ footer {
   background-color: white;
   width: 50px;
 }
-/*-------------------------*/
+/*-------------动态图标-------------*/
 .box {
   display: inline-block;
   width: 200px;
   height: 100px;
   margin: 2em;
 }
-/*-------------------------*/
+/*-------------三列文字-------------*/
 .three-column {
   padding: 1em;
   -moz-column-count: 3;
@@ -34,7 +34,7 @@ footer {
   column-count: 3;
   column-gap: 1em;
 }
-/*-------------------------*/
+/*-------------其他设置-------------*/
 @media screen and (min-width:600px) {
   nav {
     float: left;
@@ -49,11 +49,11 @@ footer {
     display: inline;
   }
 }
-/*-------------------------*/
+/*-------------置顶图标-------------*/
 #backtop a { /* back to top button */
 	position: fixed;
-	bottom: 0px; /* 小按钮到浏览器底边的距离 */
-	right: 50px; /* 小按钮到浏览器右边框的距离 */
+	bottom: 50px; /* 小按钮到浏览器底边的距离 */
+	right: 30px; /* 小按钮到浏览器右边框的距离 */
 	color: #333; /* 小按钮中文字的颜色 */
 	z-index: 1000;
 	background: #cfcfcf; /* 小按钮底色 */
@@ -66,6 +66,26 @@ footer {
 }
 
 #backtop a:hover { /* 小按钮上有鼠标悬停时 */
+	background: #333; /* 小按钮的底色 */
+	color: #fff; /* 文字颜色 */
+}
+/*-------------主页图标-------------*/
+#backhome a { /* back to home button */
+	position: fixed;
+	bottom: 100px; /* 小按钮到浏览器底边的距离 */
+	right: 25px; /* 小按钮到浏览器右边框的距离 */
+	color: #333; /* 小按钮中文字的颜色 */
+	z-index: 1000;
+	background: #cfcfcf; /* 小按钮底色 */
+	padding: 10px; /* 小按钮中文字到按钮边缘的距离 */
+	border-radius: 4px; /* 小按钮圆角的弯曲程度（半径）*/
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-weight: normal; /* 小按钮中文字的粗细 */
+	text-decoration: none;
+}
+
+#backhome a:hover { /* 小按钮上有鼠标悬停时 */
 	background: #333; /* 小按钮的底色 */
 	color: #fff; /* 文字颜色 */
 }

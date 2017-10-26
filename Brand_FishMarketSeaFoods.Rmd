@@ -7,16 +7,19 @@ output:
       collapsed: false
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<div id="backhome"><a href="index.html">HOME</a></div>
 
 <table style="margin-left:auto; margin-right:auto; width:100%">
 <tr style="text-align:center; vertical-align:bottom">
 <td bgcolor=white>
-<font color=DarkGoldenrod size=72>*SEAFOOD IS WHERE WE STARTED!*</font>
+<font color=DarkGoldenrod size=7>*SEAFOOD IS WHERE WE STARTED!*</font>
 </td>
 </tr>
 </table>
 
-#**Seafood**
+<br>
+
+#<font size=7>**Seafood**</font>
 ##*Fresh Fish*
 
 <div class="three-column">

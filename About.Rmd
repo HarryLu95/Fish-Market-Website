@@ -7,6 +7,7 @@ output:
       collapsed: false
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<div id="backhome"><a href="index.html">HOME</a></div>
 <br>
 <br>
 <br>

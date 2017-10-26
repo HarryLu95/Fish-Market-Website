@@ -6,5 +6,6 @@ output:
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<div id="backhome"><a href="index.html">HOME</a></div>
 
 #We are local!!!
