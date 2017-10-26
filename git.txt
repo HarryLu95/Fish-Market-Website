@@ -1,4 +1,4 @@
-cd C:/Users/thinkpad/Documents/Github/Fish-Market-Website
+cd C:/Users/thinkpad/Documents/Github/Fishmarket-Website
 
 git add _site.yml
 git add *

@@ -1,5 +1,5 @@
 ---
-title: "![Fishmarket Seafoods](https://www.seafoodwatch.org/-/m/sfw/images/fish/website/artic%20-char.png?la=en)<center>LOGO</center>"
+title: "![Fishmarket Seafoods](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)"
 output: 
   html_document:
     toc: true

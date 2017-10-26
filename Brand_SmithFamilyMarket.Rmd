@@ -1,5 +1,9 @@
 ---
-title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=white><font color=blue size=36>Smith's Family Market (logo)</font></td></tr></table>"
+title: "![Smith's Family Market](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png)"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 

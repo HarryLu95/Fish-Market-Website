@@ -7,12 +7,20 @@ output:
       collapsed: false
 ---
 <div id="backtop"><a href="#">TOP</a></div>
+<br>
+<br>
+<br>
+<br>
 
 #About Us {.tabset}
 ##Company History and Philosophy
+<center>
 <font face="Algerian" color=black size=8>FISHMARKET INC.</font>
 
 <font face="Belwe" color=black size=5>*¡°Seafood, Meats and Specialty Foods¡±*</font>
+</center>
+
+<br>
 
 <font face="Times New Roman" size=3><b>
 Established in 1988 by Jere and Steven Smith, Fishmarket Inc. was solely a seafood processor/distributor carrying the finest in fresh, frozen, live and value-added seafood products. The mission statement for the company was, ¡°provide our best product with our best service at our best price¡±. Although it may not be ¡°trendy¡±, this statement is true to our core beliefs as a company and remains our mission statement today! The company sold their products to retailers, restaurants, hotels and restaurants throughout the Midwest.

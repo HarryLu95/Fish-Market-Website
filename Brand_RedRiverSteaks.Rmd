@@ -1,5 +1,5 @@
 ---
-title: "![Red River Steaks](http://sr.photos3.fotosearch.com/bthumb/CSP/CSP242/k41288047.jpg)<center>LOGO</center>"
+title: "![Red River Steaks](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Red_River_Steaks.jpg)"
 output: 
   html_document:
     toc: true

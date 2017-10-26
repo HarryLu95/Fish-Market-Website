@@ -1,5 +1,9 @@
 ---
-title: "<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td bgcolor=white><font color=blue size=36>Kentucky Proud Local Items (logo)</font></td></tr></table>"
+title: "![Kentucky Proud Local Items](http://www.kyproud.com/img/logo-fb.jpg)"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 
