@@ -44,13 +44,13 @@ output:
 #<font face="Brush Script MT" size=7>What We Distribute</font>
 
 <div class="box">
-<a href="Splty_KentuckyProud.html">![](http://www.kyproud.com/img/logo-fb.jpg)</a>
+<a href="Splty_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
 
 <center><font size=5>Kentucky Proud Local Items</font></center>
 </div>
 
 <div class="box">
-![](http://pngb.mypng.cn/2354/fish.png)
+![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Fish.png)
 
 <center><font size=5>More</font></center>
 </div>

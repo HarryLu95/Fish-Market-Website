@@ -1,5 +1,5 @@
 ---
-title: "![Kentucky Proud Local Items](http://www.kyproud.com/img/logo-fb.jpg)"
+title: "![Kentucky Proud Local Items](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)"
 output: 
   html_document:
     toc: true
