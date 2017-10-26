@@ -7,3 +7,5 @@ git commit -m "update"
 git push
 HarryLu95
 BOA
+
+git config --global credential.helper wincred

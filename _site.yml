@@ -8,7 +8,7 @@ navbar:
       href: index.html
     - text: "About Us"
       href: About.html
-    - text: "Our Branches"
+    - text: "Our Brands"
       menu:
         - text: "Fishmarket Seafoods"
         - href: Brand_FishMarketSeaFoods.html
