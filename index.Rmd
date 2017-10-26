@@ -10,7 +10,7 @@ output:
 
 <br>
 
-#<font face="Brush Script MT" size=10>What We Make</font>
+#<font face="Brush Script MT" size=7>What We Make</font>
 
 <div class="box">
 <a href="Brand_FishMarketSeaFoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
@@ -41,7 +41,7 @@ output:
 
 ---
 
-#<font face="Brush Script MT" size=10>What We Distribute</font>
+#<font face="Brush Script MT" size=7>What We Distribute</font>
 
 <div class="box">
 <a href="Splty_KentuckyProud.html">![](http://www.kyproud.com/img/logo-fb.jpg)</a>

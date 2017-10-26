@@ -1,7 +1,7 @@
 ---
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_depth: 1
     toc_float: 
       collapsed: false
@@ -11,10 +11,9 @@ output:
 <br>
 <br>
 <br>
-<br>
 
-#About Us {.tabset}
-##Company History and Philosophy
+#<font face="Brush Script MT" size=7>**About Us**</font> {.tabset}
+##<font face="High Tower Text" size=4>Company History and Philosophy</font>
 <center>
 <font face="Algerian" color=black size=8>FISHMARKET INC.</font>
 
@@ -37,17 +36,20 @@ Sincerely,
 *Bradley W Smith*
 </b></font>
 
-##Events
+##<font face="High Tower Text" size=4>Events</font>
 ###2017
 - balabala
 
 ###2016
 - balabala
 
-##Photos
+##<font face="High Tower Text" size=4>Photos</font>
 
-#Our Location
-<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td><font color=black size=6>*1406 West Chestnut St, Louisville, KY 40203*</font></td></tr></table>
+##<font face="High Tower Text" size=4>Our Location</font>
+
+<center><font face="High Tower Text" color=black size=6>*1406 West Chestnut St, Louisville, KY 40203*</font></center>
+
+<br>
 
 <style>
 img {
@@ -57,7 +59,7 @@ img {
 }
 </style>
 
-```{r,location,echo=FALSE,warning=FALSE,message=FALSE}
+```{r,location,echo=FALSE,warning=FALSE,message=FALSE,eval=T}
 library(ggmap)
 mapImageData=get_map(location=c(lon=-85.7750,lat=38.2505),
                      color="color",

@@ -8,5 +8,9 @@ output:
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-#Specialties
-- Breaded Foods
+#<font size=7>**Specialty & Breaded**</font>
+- Breaded Green Tomatoes
+- Breaded Pickles
+- Breaded Cod Filets
+- Breaded Oysters and Rolled Oysters
+- Crab Cakes and Salmon Patties

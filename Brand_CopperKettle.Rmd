@@ -8,15 +8,8 @@ output:
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-#Spreads & Cheeseballs
+#<font size=7>**Spreads & Cheeseballs**</font>
 - Beer Cheese
 - Benedictine
 - Country Ham Cheese Balls
 - Seafood Cheese Balls
-
-#Specialty & Breaded
-- Breaded Green Tomatoes
-- Breaded Pickles
-- Breaded Cod Filets
-- Breaded Oysters and Rolled Oysters
-- Crab Cakes and Salmon Patties
