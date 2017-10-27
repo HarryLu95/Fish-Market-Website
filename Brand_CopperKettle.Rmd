@@ -22,7 +22,7 @@ output:
 
 </font>
 
-[Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/selectBenedictine_4.jpg
+[Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg
 
 ---
 
