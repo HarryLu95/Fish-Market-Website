@@ -16,12 +16,14 @@ output:
 </tr>
 </table>
 
-<br>
+---
 
-#<font size=7>**Beef**</font>
-##*Primal Cuts*
+<!--Beef------------------------------------------------------------------>
+<h1 style="text-align:center"><font size=7>**Beef**</font></h1>
 
-<div class="three-column">
+<!--Beef - Primal Cuts---------------------------------------------------->
+<h2>*Primal Cuts*</h2>
+<font size=4><div class="three-column">
 
 - Steamship Rounds
 - Top Rounds
@@ -40,11 +42,11 @@ output:
 - Clod, Flat Iron
 - Chuck Roll
 
-</div>
+</div></font>
 
-##*Portion Cuts*
-
-<div class="three-column">
+<!--Beef - Portion Cuts--------------------------------------------------->
+<h2>*Portion Cuts*</h2>
+<font size=4><div class="three-column">
 
 - Top Sirloin Steaks CC
 - Top Sirloin Steaks
@@ -58,11 +60,11 @@ output:
 - Delmonico Steaks
 - BI Ribeye Steaks
 
-</div>
+</div></font>
 
-##*Other Cuts*
-
-<div class="three-column">
+<!--Beef - Other Cuts----------------------------------------------------->
+<h2>*Other Cuts*</h2>
+<font size=4><div class="two-column">
 
 - Beef Cube Steaks
 - Flat Iron Steak
@@ -71,24 +73,26 @@ output:
 - Butt tenders
 - Short Ribs
 
-</div>
+</div></font>
 
-##*Ground Beef and Specialty Products*
-
-<div class="three-column">
+<!--Beef - Ground Beef and Specialty Products----------------------------->
+<h2>*Ground Beef and Specialty Products*</h2>
+<font size=4><div class="two-column">
 
 - Bulk Ground Beef
 - Beef Patties
 - Tripe, Oxtails
 
-</div>
+</div></font>
 
 ---
 
-#<font size=7>**Pork**</font>
-##*Primal Cuts*
+<!--Pork------------------------------------------------------------------>
+<h1 style="text-align:center"><font size=7>**Pork**</font></h1>
 
-<div class="three-column">
+<!--Pork - Primal Cuts---------------------------------------------------->
+<h2>*Primal Cuts*</h2>
+<font size=4><div class="three-column">
 
 - BI Pork Loins
 - BI CC Pork Loins
@@ -100,22 +104,22 @@ output:
 - Spare Ribs
 - Baby Back Ribs
 
-</div>
+</div></font>
 
-##*Portion Cuts*
-
-<div class="three-column">
+<!--Pork - Portion Cuts--------------------------------------------------->
+<h2>*Portion Cuts*</h2>
+<font size=4><div class="two-column">
 
 - CC BI Pork Chops
 - BI Pork Chops
 - Boneless Pork Chops
 - Pork Cutlets
 
-</div>
+</div></font>
 
-##*Hams, Bacon, and Sausage*
-
-<div class="three-column">
+<!--Pork - Hams, Bacon, and Sausage--------------------------------------->
+<h2>*Hams, Bacon, and Sausage*</h2>
+<font size=4><div class="three-column">
 
 - Boneless Pitt Ham
 - BI Smoked Ham
@@ -133,14 +137,16 @@ output:
 - Bratwurst / Italian / Polish Sausage
 - Hot Dogs
 
-</div>
+</div></font>
 
 ---
 
-#<font size=7>**Poultry**</font>
-##*Chicken*
+<!--Poultry--------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Poultry**</font></h1>
 
-<div class="three-column">
+<!--Poultry - Chicken----------------------------------------------------->
+<h2>*Chicken*</h2>
+<font size=4><div class="three-column">
 
 - Whole Fryers
 - Cut Up Fryers
@@ -152,43 +158,45 @@ output:
 - Drums
 - Br. Chicken Patties, Tenders and Nuggets
 
-</div>
+</div></font>
 
-##*Turkey*
-
-<div class="three-column">
+<!--Poultry - Turkey------------------------------------------------------>
+<h2>*Turkey*</h2>
+<font size=4><div class="two-column">
 
 - Turkey Breasts
 - Tom Turkeys
 - Smoked Turkeys
 
-</div>
+</div></font>
 
-##*Other*
-
-<div class="three-column">
+<!--Poultry - Other------------------------------------------------------->
+<h2>*Other*</h2>
+<font size=4><div class="two-column">
 
 - Ducks
 - Quail
 
-</div>
+</div></font>
 
 ---
 
-#<font size=7>**Veal**</font>
-##*Primal Cuts*
+<!--Veal------------------------------------------------------------------>
+<h1 style="text-align:center"><font size=7>**Veal**</font></h1>
 
-<div class="three-column">
+<!--Veal - Primal Cuts---------------------------------------------------->
+<h2>*Primal Cuts*</h2>
+<font size=4><div class="two-column">
 
 - Racks
 - Legs
 - Loins
 
-</div>
+</div></font>
 
-##*Portions and Specialty Cuts*
-
-<div class="three-column">
+<!--Veal - Primal Cuts---------------------------------------------------->
+<h2>*Portions and Specialty Cuts*</h2>
+<font size=4><div class="two-column">
 
 - Chops
 - Scallopini
@@ -197,28 +205,29 @@ output:
 - Ground Veal
 - Stew Veal
 
-</div>
+</div></font>
 
 ---
 
-#<font size=7>**Lamb**</font>
-- <font color=black size=4>We provide both Imported and Domestic</font>
+<!--Lamb------------------------------------------------------------------>
+<h1 style="text-align:center"><font size=7>**Lamb**</font></h1>
+<p style="text-align:center"><font color=MidnightBlue size=5>*¡°We provide both Imported and Domestic¡±*</font></p>
 
-##*Primal Cuts*
-
-<div class="three-column">
+<!--Lamb - Primal Cuts---------------------------------------------------->
+<h2>*Primal Cuts*</h2>
+<font size=4><div class="two-column">
 
 - Racks
 - Legs (B/I and Semi-Boneless)
 - Loins
 
-</div>
+</div></font>
 
-##*Portions and Specialty Cuts*
-
-<div class="three-column">
+<!--Lamb - Portions and Specialty Cuts------------------------------------>
+<h2>*Portions and Specialty Cuts*</h2>
+<font size=4><div class="two-column">
 
 - Chops
 - Ground Lamb
 
-</div>
+</div></font>

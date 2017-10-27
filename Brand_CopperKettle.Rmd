@@ -8,8 +8,26 @@ output:
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-#<font size=7>**Spreads & Cheeseballs**</font>
-- Beer Cheese
-- Benedictine
-- Country Ham Cheese Balls
-- Seafood Cheese Balls
+---
+
+<h1 style="text-align:center"><font size=7>**Spreads**</font></h1>
+
+<font size=5>
+
+- Beer Cheese Spread - Mild
+- Beer Cheese Spread - Hot
+- [Benedictine Cucumber Spread][1]
+
+</font>
+
+[1]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/selectBenedictine_4.jpg
+
+---
+
+<h1 style="text-align:center"><font size=7>**Cheeseballs**</font></h1>
+
+<font size=5>
+
+- Country Ham Cheeseballs
+
+</font>

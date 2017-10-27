@@ -17,12 +17,14 @@ output:
 </tr>
 </table>
 
-<br>
+---
 
-#<font size=7>**Seafood**</font>
-##*Fresh Fish*
+<!--Seafood--------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Seafood**</font></h1>
 
-<div class="three-column">
+<!--Seafood - Fresh Fish-------------------------------------------------->
+<h2>*Fresh Fish*</h2>
+<font size=4><div class="three-column">
 
 - Artic Char
 - Barramundi
@@ -56,34 +58,34 @@ output:
 - Walleye
 - Whitefish
 
-</div>
+</div></font>
 
-##*Fresh Shellfish Meat*
-
-<div class="three-column">
+<!--Seafood - Fresh Shellfish Meat---------------------------------------->
+<h2>*Fresh Shellfish Meat*</h2>
+<font size=4><div class="two-column">
 
 - East Coast Oyster (gallons & cups)
 - Crab Meat
 - Frying Clams
 
-</div>
+</div></font>
 
-##*Live Shellfish*
-
-<div class="three-column">
+<!--Seafood - Live Shellfish---------------------------------------------->
+<h2>*Live Shellfish*</h2>
+<font size=4><div class="two-column">
 
 - Canadian Hard Shell Lobsters
 - East Coast Shell Oysters
 - Canadian Shell Oysters
 - PEI Mussels
 - Little Neck Clams
-- Cherry stone Clams
+- Cherry Stone Clams
 
-</div>
+</div></font>
 
-##*Frozen Seafood*
-
-<div class="three-column">
+<!--Seafood - Frozen Seafood---------------------------------------------->
+<h2>*Frozen Seafood*</h2>
+<font size=4><div class="three-column">
 
 - Cod
 - Catfish
@@ -105,16 +107,26 @@ output:
 - Bay Scallops
 - Sea Scallops
 - Shark
-- King fish
+- King Fish
 
-</div>
+</div></font>
 
-##Shrimp (All Sizes)
-
-<div class="three-column">
+<!--Seafood - Shrimp (All Sizes)------------------------------------------>
+<h2>*Shrimp (All Sizes)*</h2>
+<font size=4><div class="two-column">
 
 - Cooked Peeled and Deveined
 - Raw Peeled and Deveined
 - Raw Shell on Tigers, Venemei Whites, Domestic
 
-</div>
+</div></font>
+
+<!--Seafood - Specialties------------------------------------------------->
+<h2>*Specialties*</h2>
+<font size=4><div class="two-column">
+
+- Crab Cheeseballs
+- Shrimp Cheeseballs
+- Smoked Salmon Cheeseballs
+
+</div></font>

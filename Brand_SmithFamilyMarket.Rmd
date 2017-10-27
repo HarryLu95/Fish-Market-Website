@@ -8,9 +8,19 @@ output:
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-#<font size=7>**Specialty & Breaded**</font>
+---
+
+<h1 style="text-align:center"><font size=7>**Specialty & Breaded**</font></h1>
+
+<font size=5>
+
 - Breaded Green Tomatoes
+- Breaded Oysters
+- Rolled Oysters (Po boy)
 - Breaded Pickles
-- Breaded Cod Filets
-- Breaded Oysters and Rolled Oysters
-- Crab Cakes and Salmon Patties
+- Breaded Salmon Patties
+- Hand Cut Breaded Cod Filets
+- Maryland Style Crab Cakes
+- Mini Crab Cakes
+
+</font>
