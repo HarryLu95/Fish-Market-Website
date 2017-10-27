@@ -1,5 +1,5 @@
 ---
-title: "![Copper Kettle](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)"
+title: <img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg" align="center" width="200">
 output: 
   html_document:
     toc: true
@@ -12,15 +12,17 @@ output:
 
 <h1 style="text-align:center"><font size=7>**Spreads**</font></h1>
 
+<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Copper_Kettle_Spreads.JPG" alt="Copper Kettle Spreads" width="80%">
+
 <font size=5>
 
 - Beer Cheese Spread - Mild
 - Beer Cheese Spread - Hot
-- [Benedictine Cucumber Spread][1]
+- [Benedictine Cucumber Spread][Benedictine]
 
 </font>
 
-[1]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/selectBenedictine_4.jpg
+[Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/selectBenedictine_4.jpg
 
 ---
 

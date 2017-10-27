@@ -5,6 +5,12 @@ output:
     toc: true
     toc_float: true
 ---
+<style>
+img {
+  width: 200px;
+}
+</style>
+
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 

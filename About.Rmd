@@ -54,8 +54,6 @@ Sincerely,
 <style>
 img {
   width: 2000px;
-  display: block;
-  margin: 0 auto;
 }
 </style>
 

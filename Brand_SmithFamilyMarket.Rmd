@@ -5,6 +5,12 @@ output:
     toc: true
     toc_float: true
 ---
+<style>
+img {
+  width: 200px;
+}
+</style>
+
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
@@ -14,13 +20,16 @@ output:
 
 <font size=5>
 
-- Breaded Green Tomatoes
-- Breaded Oysters
-- Rolled Oysters (Po boy)
-- Breaded Pickles
-- Breaded Salmon Patties
-- Hand Cut Breaded Cod Filets
-- Maryland Style Crab Cakes
-- Mini Crab Cakes
+- [Breaded Green Tomatoes][Tomato]
+- [Breaded Oysters][Oyster]
+- [Rolled Oysters (Po boy)][]
+- [Breaded Pickles][]
+- [Breaded Salmon Patties][]
+- [Hand Cut Breaded Cod Filets][Cod]
+- [Maryland Style Crab Cakes][]
+- [Mini Crab Cakes][]
+- <font color=red>**Breaded Chicken???**</font>
 
 </font>
+
+[Tomato]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/selectTomatoes_1.jpg
