@@ -1,19 +1,18 @@
 ---
-title: <center><font face="Algerian" size=16>FISHMARKET INC.</font></center>
+title: <center><font face="Algerian" color=SteelBlue size=16>FISHMARKET INC.</font></center>
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
-<div id="backhome"><a href="index.html">HOME</a></div>
 
-<br>
+---
 
-#<font face="Brush Script MT" size=7>What We Make</font>
+#<font face="Brush Script MT" color=SteelBlue size=7>What We Make</font>
 
 <div class="box">
-<a href="Brand_FishMarketSeaFoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
+<a href="Brand_FishmarketSeafoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
 
 <center><font size=5>Fishmarket Seafoods</font></center>
 </div>
@@ -41,7 +40,7 @@ output:
 
 ---
 
-#<font face="Brush Script MT" size=7>What We Distribute</font>
+#<font face="Brush Script MT" color=SteelBlue size=7>What We Distribute</font>
 
 <div class="box">
 <a href="Splty_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
@@ -57,47 +56,12 @@ output:
 
 ---
 
-<nav>
-
-- Home
-
-- About Us
-
-- Our Branches
-
-- Specialty Products
-
-- Contact
-
-</nav>
-
-<section>
-
-balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala
-
-</section>
-
-<section>
+#<font face="Brush Script MT" color=SteelBlue size=7>About Us</font>
 
 **balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala**
 
-</section>
+<font size=5>[More...](About.html)</font>
 
-<p id="demo">点击这个按钮，获得您的坐标：</p>
-<button onclick="getLocation()">试一下</button>
-<script>
-var x=document.getElementById("demo");
-function getLocation()
-  {
-  if (navigator.geolocation)
-    {
-    navigator.geolocation.getCurrentPosition(showPosition);
-    }
-  else{x.innerHTML="Geolocation is not supported by this browser.";}
-  }
-function showPosition(position)
-  {
-  x.innerHTML="Latitude: " + position.coords.latitude + 
-  "<br />Longitude: " + position.coords.longitude;	
-  }
-</script>
+---
+
+#[<font face="Brush Script MT" color=SteelBlue size=7>Contact Us</font>](Contact.html)

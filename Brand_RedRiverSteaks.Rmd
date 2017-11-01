@@ -27,7 +27,6 @@ img {
 <!--Beef------------------------------------------------------------------>
 <h1 style="text-align:center"><font size=7>**Beef**</font></h1>
 
-<!--Beef - Primal Cuts---------------------------------------------------->
 <h2>*Primal Cuts*</h2>
 <font size=4><div class="three-column">
 
@@ -50,7 +49,6 @@ img {
 
 </div></font>
 
-<!--Beef - Portion Cuts--------------------------------------------------->
 <h2>*Portion Cuts*</h2>
 <font size=4><div class="three-column">
 
@@ -68,7 +66,6 @@ img {
 
 </div></font>
 
-<!--Beef - Other Cuts----------------------------------------------------->
 <h2>*Other Cuts*</h2>
 <font size=4><div class="two-column">
 
@@ -81,7 +78,6 @@ img {
 
 </div></font>
 
-<!--Beef - Ground Beef and Specialty Products----------------------------->
 <h2>*Ground Beef and Specialty Products*</h2>
 <font size=4><div class="two-column">
 
@@ -96,7 +92,6 @@ img {
 <!--Pork------------------------------------------------------------------>
 <h1 style="text-align:center"><font size=7>**Pork**</font></h1>
 
-<!--Pork - Primal Cuts---------------------------------------------------->
 <h2>*Primal Cuts*</h2>
 <font size=4><div class="three-column">
 
@@ -112,7 +107,6 @@ img {
 
 </div></font>
 
-<!--Pork - Portion Cuts--------------------------------------------------->
 <h2>*Portion Cuts*</h2>
 <font size=4><div class="two-column">
 
@@ -123,7 +117,6 @@ img {
 
 </div></font>
 
-<!--Pork - Hams, Bacon, and Sausage--------------------------------------->
 <h2>*Hams, Bacon, and Sausage*</h2>
 <font size=4><div class="three-column">
 
@@ -150,7 +143,6 @@ img {
 <!--Poultry--------------------------------------------------------------->
 <h1 style="text-align:center"><font size=7>**Poultry**</font></h1>
 
-<!--Poultry - Chicken----------------------------------------------------->
 <h2>*Chicken*</h2>
 <font size=4><div class="three-column">
 
@@ -166,7 +158,6 @@ img {
 
 </div></font>
 
-<!--Poultry - Turkey------------------------------------------------------>
 <h2>*Turkey*</h2>
 <font size=4><div class="two-column">
 
@@ -176,7 +167,6 @@ img {
 
 </div></font>
 
-<!--Poultry - Other------------------------------------------------------->
 <h2>*Other*</h2>
 <font size=4><div class="two-column">
 
@@ -190,7 +180,6 @@ img {
 <!--Veal------------------------------------------------------------------>
 <h1 style="text-align:center"><font size=7>**Veal**</font></h1>
 
-<!--Veal - Primal Cuts---------------------------------------------------->
 <h2>*Primal Cuts*</h2>
 <font size=4><div class="two-column">
 
@@ -200,7 +189,6 @@ img {
 
 </div></font>
 
-<!--Veal - Primal Cuts---------------------------------------------------->
 <h2>*Portions and Specialty Cuts*</h2>
 <font size=4><div class="two-column">
 
@@ -219,7 +207,6 @@ img {
 <h1 style="text-align:center"><font size=7>**Lamb**</font></h1>
 <p style="text-align:center"><font color=MidnightBlue size=5>*¡°We provide both Imported and Domestic¡±*</font></p>
 
-<!--Lamb - Primal Cuts---------------------------------------------------->
 <h2>*Primal Cuts*</h2>
 <font size=4><div class="two-column">
 
@@ -229,7 +216,6 @@ img {
 
 </div></font>
 
-<!--Lamb - Portions and Specialty Cuts------------------------------------>
 <h2>*Portions and Specialty Cuts*</h2>
 <font size=4><div class="two-column">
 

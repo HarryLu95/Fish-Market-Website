@@ -1,5 +1,5 @@
 ---
-title: <img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg" align="center" width="200">
+title: "![Copper Kettle](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)"
 output: 
   html_document:
     toc: true
@@ -21,6 +21,8 @@ output:
 - [Benedictine Cucumber Spread][Benedictine]
 
 </font>
+
+<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg" alt="Benedictine" width="80%">
 
 [Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg
 

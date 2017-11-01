@@ -8,5 +8,27 @@ img {
 </style>
 
 <div id="backhome"><a href="index.html">HOME</a></div>
-<table style='margin-left: auto; margin-right: auto; width: 100%'><tr style='text-align: center'><td><font color=black size=36>To Order, Call 502-587-7474</font></td></tr></table>
 
+
+<font face="High Tower Text" size=5><nav>
+<font size=6>***Missed Something?***</font>
+
+- [<font color=SteelBlue>**Fishmarket Seafoods**</font>](Brand_FishmarketSeafoods.html)
+
+- [<font color=SteelBlue>**Red River Steaks**</font>](Brand_RedRiverSteaks.html)
+
+- [<font color=SteelBlue>**Smith's Family Market**</font>](Brand_SmithFamilyMarket.html)
+
+- [<font color=SteelBlue>**Copper Kettle**</font>](Brand_CopperKettle.html)
+
+- [<font color=SteelBlue>**Kentucky Proud Local Items**</font>](Splty_KentuckyProud.html)
+
+</nav></font>
+
+<section style="text-align:center">
+<font face="GungsuhChe" color=black size=7>**To Order, Call 502-587-7474**</font>
+<br>
+<font color=black size=7>*or*</font>
+<br>
+<font face="GungsuhChe" color=black size=7><b>Email: sales@fishmarketseafoods.net<b></font>
+</section>

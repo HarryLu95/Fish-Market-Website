@@ -11,7 +11,7 @@ navbar:
     - text: "Our Brands"
       menu:
         - text: "Fishmarket Seafoods"
-        - href: Brand_FishMarketSeaFoods.html
+        - href: Brand_FishmarketSeafoods.html
         - text: "Red River Steaks"
         - href: Brand_RedRiverSteaks.html
         - text: "Smith's Family Market"

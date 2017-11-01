@@ -8,52 +8,62 @@ output:
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-<br>
+---
 
-#<font size=7>**Honeys**</font>
-##*Bee Boys*
+<!--Honeys---------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Honeys**</font></h1>
+
+<h2>*Bee Boys*</h2>
+<font size=4>
+
 - Bee Boys Honey, 12/16oz
 - Bee Boys Honey, 6/5#
 
-##*Sycamore*
-- Sycamore Ridge Honey, 12/16oz
-- Sycamore Ridge Honey, 12/32oz
+</font>
 
-##*Sutton*
+<h2>*Sutton*</h2>
+<font size=4>
+
 - Sutton Honey, 12/16oz
 - Sutton Cinnamon Creme Honey, 12/16oz
 
+</font>
+
+<h2>*Sycamore Ridge*</h2>
+<font size=4>
+
+- Sycamore Ridge Honey, 12/16oz
+- Sycamore Ridge Honey, 12/32oz
+
+</font>
+
 ---
 
-#<font size=7>**Coffee and Tea**</font>
-##*CaffeMarco*
+<!--Coffee and Tea-------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Coffee and Tea**</font></h1>
+
+<h2>*CaffeMarco*</h2>
+<font size=4>
+
 - CaffeMarco Light Roast, 12/10oz
 - CaffeMarco Medium Roast, 12/10oz
 - CaffeMarco Dark Roast, 12/10oz
 
-##*Li's*
-- Li's Coffee Light Roast, 12/8oz
+</font>
 
-##*Red Hot Roasters*
-- Red Hot Roasters Light Roast, 6/11oz
-- Red Hot Roasters Dark Roast, 6/11oz
-- Red Hot Roasters Expresso, 6/11oz
-- Red Hot Roasters Decafeinated, 6/11oz
-- Red Hot Roasters Bulk Dark Roast, 1/20#
-- Red Hot Roasters Bulk Expresso, 1/20#
+<h2>*Common Grounds*</h2>
+<font size=4>
 
-##*Common Grounds*
 - Common Grounds Anniversary Blend Coffee, 6/12oz
 - Common Grounds Aged Bourbon Barrel Coffee, 6/12oz
 - Common Grounds Everyone Knows Your Name Coffee, 6/12oz
 - Common Grounds Sumatra Mandheling Coffee, 6/12oz
 
-##*Safai Coffee*
-- Safai Coffee Cherokee Triangle Blend, 6/12oz
-- Safai Coffee Crescent Hill Blend, 6/12oz
-- Safai Coffee Frankfort Ave Blend, 6/12oz
+</font>
 
-##*Elmwood Inn*
+<h2>*Elmwood Inn*</h2>
+<font size=4>
+
 - Elmwood Inn Blueberry Tea Bags, 12/1oz
 - Elmwood Inn Bourbon Black Tea Bags, 12/1oz
 - Elmwood Inn Cherry Rose Green Tea Bags, 12/1oz
@@ -61,17 +71,37 @@ output:
 - Elmwood Inn Earl Grey Tea Bags, 12/1oz
 - Elmwood Inn KY Blend Black Tea Bags, 12/1oz
 
+</font>
+
+<h2>*Red Hot Roasters*</h2>
+<font size=4>
+
+- Red Hot Roasters Light Roast, 6/11oz
+- Red Hot Roasters Dark Roast, 6/11oz
+- Red Hot Roasters Expresso, 6/11oz
+- Red Hot Roasters Decafeinated, 6/11oz
+- Red Hot Roasters Bulk Dark Roast, 1/20#
+- Red Hot Roasters Bulk Expresso, 1/20#
+
+</font>
+
+<h2>*Safai Coffee*</h2>
+<font size=4>
+
+- Safai Coffee Cherokee Triangle Blend, 6/12oz
+- Safai Coffee Crescent Hill Blend, 6/12oz
+- Safai Coffee Frankfort Ave Blend, 6/12oz
+
+</font>
+
 ---
 
-#<font size=7>**Cheeses**</font>
-##*Lost River Creamery*
-- Lost River Creamery Cave Aged Cheddar, 12/8oz
-- Lost River Creamery Cave Aged Gouda, 12/8oz
-- Lost River Creamery Chipotle Gouda, 12/8oz
-- Lost River Creamery Jalapeno Gouda, 12/8oz
-- Lost River Creamery Tomato Basil Gouda, 12/8oz
+<!--Cheeses--------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Cheeses**</font></h1>
 
-##*Boone Creek Creamery*
+<h2>*Boone Creek Creamery*</h2>
+<font size=4>
+
 - Blackberry Serenade, 1/4#
 - Blue Cheese Crumbles, 16oz
 - Blue Cheese Crumbles, 8oz
@@ -98,77 +128,89 @@ output:
 - Tuscan Sun, 1/4#
 - Wensleydale, 1/4#
 
-##*Copper Kettle*
+</font>
+
+<h2>*Copper Kettle*</h2>
+<font size=4>
+
 - Copper Kettle Beer Cheese (Mild), 12/8oz
 - Copper Kettle Beer Cheese (Hot), 12/8oz
 - Copper Kettle Benedictine, 12/8oz
 
+</font>
+
+<h2>*Lost River Creamery*</h2>
+<font size=4>
+
+- Lost River Creamery Cave Aged Cheddar, 12/8oz
+- Lost River Creamery Cave Aged Gouda, 12/8oz
+- Lost River Creamery Chipotle Gouda, 12/8oz
+- Lost River Creamery Jalapeno Gouda, 12/8oz
+- Lost River Creamery Tomato Basil Gouda, 12/8oz
+
+</font>
+
 ---
 
-#<font size=7>**Sauces**</font>
-##*KY Smokin Grill*
-- KY Smokin Grill Original Sauce, 12/18oz
-- KY Smokin Grill Spiced Honey Mustard, 12/8oz
-- KY Smokin Grill Spicy Sauce, 12/18oz
-- KY Smokin Grill "Too Hot For You" Sauce, 12/18oz
+<!--Sauces---------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Sauces**</font></h1>
 
-##*Ale-8-One*
+<h2>*Ale-8-One*</h2>
+<font size=4>
+
 - Ale-8-One BBQ Sauce, 12/16oz
 - Ale-8-One Spicy Salsa, 12/14oz
 - Ale-8-One Sweet Salsa, 12/14oz
 
-##*Screamin' Mimi's*
-- Screamin' Mimi's Garlic Sauce, 12/12oz
-- Screamin' Mimi's Pepper Sauce, 12/5oz
-- Screamin' Mimi's Sweet Hot Salsa, 12/16oz
-- Screamin' Mimi's Sweet Hotter Salsa, 12/16oz
+</font>
 
-##*Pappy's*
-- Pappy's Hottest Ride, 12/12.7oz
-- Pappy's Moonshine Madness, 12/12.7oz
+<h2>*Applecreek*</h2>
+<font size=4>
 
-##*Bourbon Q*
+- Applecreek Apple Butter, 12/11oz
+- Applecreek Bourbon Chocolate Sauce, 12/11oz
+- Applecreek Bourbon Caramel Sauce, 12/11oz
+- Applecreek Bourbon Marinade, 12/12oz
+
+</font>
+
+<h2>*BBC*</h2>
+<font size=4>
+
+- BBC Porter Mary Bloody Mary Mix, 12/750ml
+- BBC Cajun Relish, 12/10oz
+- BBC Spicy Remoulade, 2/10oz
+
+</font>
+
+<h2>*Bourbon Q*</h2>
+<font size=4>
+
 - Bourbon Q Barrel Select, 12/12.7oz
 - Bourbon Q Classic, 12/12.7oz
 - Bourbon Q Gold Reserve, 12/12.7oz
 
-##*Kentucky's Own*
+</font>
+
+<h2>*Johnny B's*</h2>
+<font size=4>
+
+- Johnny B's Bogle Town Dry Rub, 24/8oz
+- Johnny B's Spicy Wet Sauce, 12/18oz
+
+</font>
+
+<h2>*Kentucky's Own*</h2>
+<font size=4>
+
 - Kentucky's Own Garden Marinara, 12/26oz
 - Kentucky's Own Rubusto Marinara, 12/26oz
 
-##*Mossy Oak*
-- Mossy Oak Black Bean Salsa, 12/16oz
-- Mossy Oak Honey Apple Salsa, 12/16oz
-- Mossy Oak Roasted Garlic Salsa, 12/16oz
+</font>
 
-##*Pops Pepper Patch*
-- Pops Pepper Patch Blackberry Bourbon Chutney, 12/9oz
-- Pops Pepper Patch Mild Pickles, 12/16oz
-- Pops Pepper Patch Spicy Pickles, 12/16oz
+<h2>*Kilimanjaro*</h2>
+<font size=4>
 
-##*SoBo Unbelievable*
-- SoBo Unbelievable BBQ Sauce, 12/12oz
-- SoBo Unbelievable Mustard Sauce, 12/12oz
-
-##*Ward's*
-- Ward's Bluegrass Bourbon Sauce, 6/14.5oz
-- Ward's Bluegrass Steaks & Everything Sauce Original, 6/14.5oz
-- Ward's Pineapple Chutney, 12/11oz
-
-##*Smoke Doctors*
-- Smoke Doctors Hot & Spicy Sauce, 12/16oz
-- Smoke Doctors Original Sauce, 12/16oz
-- Smoke Doctors Premium Spicy Dills, 12/16oz
-
-##*Pop's*
-- Pop's Bourbon Peach Chutney, 12/9.2oz
-- Pop's Extreme Habagardil Pickles, 12/16oz
-- Pop's Henry Baines Sauce, 12/9.2oz
-- Pop's OMG Habagardil Pickles, 12/16oz
-- Pop's Pepper Patch Smoky Tomato Dressing, 12/12oz
-- Pop's Red Bell Pepper Jelly, 12/10oz
-
-##*Kilimanjaro*
 - Kilimanjaro Brown Sugar Syrup, 12/16oz
 - Kilimanjaro Ginger Syrup, 12/16oz
 - Kilimanjaro Jerk Sauce, 12/12oz
@@ -180,46 +222,128 @@ output:
 - Kilimanjaro Sweet Heat Salsa, 12/16oz
 - Kilimanjaro Wot Sauce, 12/16oz
 - Kilimanjaro Wot Sauce, 4/1gal
-
-##*Berbere*
 - Berbere Spice Mix, 6/case
 
-##*Applecreek*
-- Applecreek Bourbon Chocolate Sauce, 12/11oz
-- Applecreek Bourbon Caramel Sauce, 12/11oz
-- Applecreek Bourbon Marinade, 12/12oz
+</font>
 
-##*BBC*
-- BBC Porter Mary Bloody Mary Mix, 12/750ml
-- BBC Cajun Relish, 12/10oz
-- BBC Spicy Remoulade, 2/10oz
+<h2>*KY Smokin Grill*</h2>
+<font size=4>
 
-##*Burley*
-- Burley BBQ Awesome Sauce (Black Raspberry Sauce), 12/12oz
-- Burley BBQ Black Raspberry Jelly, 12/10oz
+- KY Smokin Grill Original Sauce, 12/18oz
+- KY Smokin Grill Spiced Honey Mustard, 12/8oz
+- KY Smokin Grill Spicy Sauce, 12/18oz
+- KY Smokin Grill "Too Hot For You" Sauce, 12/18oz
 
-##*Johnny B's*
-- Johnny B's Bogle Town Dry Rub, 24/8oz
-- Johnny B's Spicy Wet Sauce, 12/18oz
+</font>
 
-##*Wholly Smokers*
-- Wholly Smokers Cooking Sauce, 12/16oz
+<h2>*Me Salsa*</h2>
+<font size=4>
 
-##*Me Salsa*
 - Me Salsa Roja Salsa, 12/12oz
 - Me Salsa Verde Salsa, 12/12oz
 
+</font>
+
+<h2>*Mossy Oak*</h2>
+<font size=4>
+
+- Mossy Oak Black Bean Salsa, 12/16oz
+- Mossy Oak Honey Apple Salsa, 12/16oz
+- Mossy Oak Roasted Garlic Salsa, 12/16oz
+
+</font>
+
+<h2>*Pappy's*</h2>
+<font size=4>
+
+- Pappy's Hottest Ride, 12/12.7oz
+- Pappy's Moonshine Madness, 12/12.7oz
+
+</font>
+
+<h2>*Pops Pepper Patch*</h2>
+<font size=4>
+
+- Pops Pepper Patch Blackberry Bourbon Chutney, 12/9oz
+- Pops Pepper Patch Mild Pickles, 12/16oz
+- Pops Pepper Patch Spicy Pickles, 12/16oz
+
+</font>
+
+<h2>*Pop's*</h2>
+<font size=4>
+
+- Pop's Bourbon Peach Chutney, 12/9.2oz
+- Pop's Extreme Habagardil Pickles, 12/16oz
+- Pop's Henry Baines Sauce, 12/9.2oz
+- Pop's OMG Habagardil Pickles, 12/16oz
+- Pop's Pepper Patch Smoky Tomato Dressing, 12/12oz
+- Pop's Red Bell Pepper Jelly, 12/10oz
+
+</font>
+
+<h2>*Screamin' Mimi's*</h2>
+<font size=4>
+
+- Screamin' Mimi's Garlic Sauce, 12/12oz
+- Screamin' Mimi's Pepper Sauce, 12/5oz
+- Screamin' Mimi's Sweet Hot Salsa, 12/16oz
+- Screamin' Mimi's Sweet Hotter Salsa, 12/16oz
+
+</font>
+
+<h2>*Smoke Doctors*</h2>
+<font size=4>
+
+- Smoke Doctors Hot & Spicy Sauce, 12/16oz
+- Smoke Doctors Original Sauce, 12/16oz
+- Smoke Doctors Premium Spicy Dills, 12/16oz
+
+</font>
+
+<h2>*SoBo Unbelievable*</h2>
+<font size=4>
+
+- SoBo Unbelievable BBQ Sauce, 12/12oz
+- SoBo Unbelievable Mustard Sauce, 12/12oz
+
+</font>
+
+<h2>*Ward's*</h2>
+<font size=4>
+
+- Ward's Bluegrass Bourbon Sauce, 6/14.5oz
+- Ward's Bluegrass Steaks & Everything Sauce Original, 6/14.5oz
+- Ward's Pineapple Chutney, 12/11oz
+
+</font>
+
+<h2>*Wholly Smokers*</h2>
+<font size=4>
+
+- Wholly Smokers Cooking Sauce, 12/16oz
+
+</font>
+
 ---
 
-#<font size=7>**Jams and Jellies**</font>
-##*Lucky Clover Farm*
+<!--Jams and Jellies------------------------------------------------------>
+<h1 style="text-align:center"><font size=7>**Jams and Jellies**</font></h1>
+
+<h2>*Lucky Clover Farm*</h2>
+<font size=4>
+
 - Lucky Clover Farm Cantaloupe Preserves, 12/9oz
 - Lucky Clover Farm Caramel Apple Jam, 12/9oz
 - Lucky Clover Farm KY Blackberry Jam, 12/9oz
 - Lucky Clover Farm Peach Jalapeno Jelly, 12/9oz
 - Lucky Clover Farm Strawberry Jam, 12/9oz
 
-##*Made By Mavis*
+</font>
+
+<h2>*Made By Mavis*</h2>
+<font size=4>
+
 - Made By Mavis Cherry Bomb Jam, 12/8oz
 - Made By Mavis Dark Chocolate Raspberry Jam, 12/8oz
 - Made By Mavis Peach Bellini Jam, 12/8oz
@@ -227,45 +351,23 @@ output:
 - Made By Mavis Strawberry- Mango Jam, 12/8oz
 - Made By Mavis Tropic Thunder Jam, 12/8oz
 
-##*Paradise Jellies*
+</font>
+
+<h2>*Paradise Jellies*</h2>
+<font size=4>
+
 - Paradise Jellies FL Orange Spicy Fruit Jelly, 12/8oz
+
+</font>
 
 ---
 
-#<font size=7>**Breadings and Spices**</font>
-##*Weisenberger*
-- Weisenberger Blueberry Muffin Mix, 10/8oz
-- Weisenberger White Cornbread Mix, 12/5.5oz
-- Weisenberger White Grits, 8/2#
-- Weisenberger Pancake Mix, 12/5.5oz
-- Weisenberger Yellow Corn Muffin Mix, 12/5.5oz
-- Weisenberger Biscuit Mix, 12/5.5oz
-- Weisenberger Gravy Mix, 6/1.5#
-- Weisenberger Wh Wheat Biscuit Mix, 12/5.5oz
-- Weisenberger Wheat Bran, 6/2#
-- Weisenberger Stone Ground Whole Wheat Flour, 8/2#
-- Weisenberger Pumpkin Bread Mix, 5/14oz
-- Weisenberger Bolted White Corn Meal S/R, 8/2#
-- Weisenberger Yellow Corn Meal, 6/5#
-- Weisenberger White Corn Meal Unbolted, 6/5#
-- Weisenberger Cornmeal Bolted White, 8/2#
-- Weisenberger Seasoned Flour Mix, 12/5.5oz
-- Weisenberger Unbleached All Purpose Flour, 6/5#
-- Weisenberger SR Flour, 6/5#
-- Weisenberger Lemon Poppy Muffin, 10/8oz
-- Weisenberger Spoonbread Mix, 12/5.5oz
-- Weisenberger Banana Bread Mix, 5/1#
-- Weisenberger Raspberry Muffin Mix, 10/8oz
-- Weisenberger Pizza Crust Mix, 12/6.5oz
-- Weisenberger Sour Creme Scone Mix, 10/8oz
-- Weisenberger Apple Cinnamon Muffin Mix, 10/8oz
-- Weisenberger Lemon Poppy Muffin Mix, 10/8oz
-- Weisenberger White Cornbread Mix, 12/5.5oz
-- Weisenberger Yellow Grits, 8/2#
-- Weisenberger Bolted Plain White Corn Meal, 8/2#
-- Weisenberger Spoon Bread Mix, 12/5.5oz
+<!--Breadings and Spices-------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Breadings and Spices**</font></h1>
 
-##*Bloomfield*
+<h2>*Bloomfield*</h2>
+<font size=4>
+
 - Bloomfield GF Cake Mix, 6/15oz
 - Bloomfield GF Brownie Mix, 6/16oz
 - Bloomfield GF Cookie Mix, 6/16oz
@@ -273,20 +375,11 @@ output:
 - Bloomfield GF Muffin Mix, 6/18.5oz
 - Bloomfield Seasoned Flour, 12/10oz
 
-##*Catrina's*
-- Catrina's Kitchen Southern Seasoned Flour, 6/10oz
-- Catrina's Fish & Veg Seasoning, 6/10oz
-- Catrina's A Little Somethin Somethin, 6/8oz
-- Catrina's Sweet Sour Cream Cornbread, 6/11.6oz
-- Catrina's Candied Yam Mix, 6/1.4#
+</font>
 
-##*Louie's*
-- Louie's Fish-n-dlite Breading, 12/10oz
+<h2>*Bourbon Barrel Foods*</h2>
+<font size=4>
 
-##*Bourbon Q*
-- Bourbon Q Hobey Butt Spice, 12/4oz
-
-##*Bourbon Barrel Foods*
 - BBF Bluegrass Soy Sauce, 6/100ml
 - BBF Bourbon Barrel Aged Worcestershire, 6/100ml
 - BBF Bourbon Barrel Aged Vanilla Extract, 6/100ml
@@ -321,10 +414,89 @@ output:
 - BBF Woodford Reserve Spiced Cherry Bitters, 6/100ml
 - BBF Woodford Reserve Smoked Lemon Pepper, 6/case
 
+</font>
+
+<h2>*Bourbon Q*</h2>
+<font size=4>
+
+- Bourbon Q Hobey Butt Spice, 12/4oz
+
+</font>
+
+<h2>*Catrina's*</h2>
+<font size=4>
+
+- Catrina's Kitchen Southern Seasoned Flour, 6/10oz
+- Catrina's Fish & Veg Seasoning, 6/10oz
+- Catrina's A Little Somethin Somethin, 6/8oz
+- Catrina's Sweet Sour Cream Cornbread, 6/11.6oz
+- Catrina's Candied Yam Mix, 6/1.4#
+
+</font>
+
+<h2>*Louie's*</h2>
+<font size=4>
+
+- Louie's Fish-n-D-lit Breading, 12/10oz
+
+</font>
+
+<h2>*Weisenberger*</h2>
+<font size=4>
+
+- Weisenberger Blueberry Muffin Mix, 10/8oz
+- Weisenberger White Cornbread Mix, 12/5.5oz
+- Weisenberger White Grits, 8/2#
+- Weisenberger Pancake Mix, 12/5.5oz
+- Weisenberger Yellow Corn Muffin Mix, 12/5.5oz
+- Weisenberger Biscuit Mix, 12/5.5oz
+- Weisenberger Gravy Mix, 6/1.5#
+- Weisenberger Wh Wheat Biscuit Mix, 12/5.5oz
+- Weisenberger Wheat Bran, 6/2#
+- Weisenberger Stone Ground Whole Wheat Flour, 8/2#
+- Weisenberger Pumpkin Bread Mix, 5/14oz
+- Weisenberger Bolted White Corn Meal S/R, 8/2#
+- Weisenberger Yellow Corn Meal, 6/5#
+- Weisenberger White Corn Meal Unbolted, 6/5#
+- Weisenberger Cornmeal Bolted White, 8/2#
+- Weisenberger Seasoned Flour Mix, 12/5.5oz
+- Weisenberger Unbleached All Purpose Flour, 6/5#
+- Weisenberger SR Flour, 6/5#
+- Weisenberger Lemon Poppy Muffin, 10/8oz
+- Weisenberger Spoonbread Mix, 12/5.5oz
+- Weisenberger Banana Bread Mix, 5/1#
+- Weisenberger Raspberry Muffin Mix, 10/8oz
+- Weisenberger Pizza Crust Mix, 12/6.5oz
+- Weisenberger Sour Creme Scone Mix, 10/8oz
+- Weisenberger Apple Cinnamon Muffin Mix, 10/8oz
+- Weisenberger Lemon Poppy Muffin Mix, 10/8oz
+- Weisenberger White Cornbread Mix, 12/5.5oz
+- Weisenberger Yellow Grits, 8/2#
+- Weisenberger Bolted Plain White Corn Meal, 8/2#
+- Weisenberger Spoon Bread Mix, 12/5.5oz
+
+</font>
+
 ---
 
-#<font size=7>**Soaps, Lotions and Candles**</font>
-##*Rock Bottom*
+<!--Soaps, Lotions and Candles-------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Soaps, Lotions and Candles**</font></h1>
+
+<h2>*Black Dog Candle*</h2>
+<font size=4>
+
+- Black Dog Creme Brulee Glass Tumbler Soy Candle, 12/9oz
+- Black Dog Creme Brulee Round Aluminum Tin Soy Candle, 12/8oz
+- Black Dog Harvest Spice Glass Tumbler Soy Candle, 12/9oz
+- Black Dog Harvest Spice Round Aluminum Tin Soy Candle, 12/8oz
+- Black Dog Christmas Past Glass Tumbler Soy Candle, 12/9oz
+- Black Dog Christmas Past Round Aluminum Tin Soy Candle, 12/8oz
+
+</font>
+
+<h2>*Rock Bottom*</h2>
+<font size=4>
+
 - Rock Bottom Blk Raspberry Vanilla Goat Milk Soap, 12/5oz
 - Rock Bottom Oatmeal Goat Milk Soap, 12/5oz
 - Rock Bottom Seashore Goat Milk Soap, 12/5oz
@@ -332,7 +504,11 @@ output:
 - Rock Bottom Milk & Honey Body Butter, 12/4oz
 - Rock Bottom Seashore Body Butter, 12/4oz
 
-##*Singing Hills*
+</font>
+
+<h2>*Singing Hills*</h2>
+<font size=4>
+
 - Singing Hills Ginger Lime Goat Milk Lotion, 6/8oz
 - Singing Hills Lavender Goat Milk Lotion, 6/8oz
 - Singing Hills Lemongrass & Sage Goat Milk Lotion, 6/8oz
@@ -341,53 +517,43 @@ output:
 - Singing Hills Lavender Goat Milk Soap, 12/4.5oz
 - Singing Hills Moonlight Pomegranate Goat Milk Soap, 12/4.5oz
 
-##*Sunflower Sundries*
+</font>
+
+<h2>*Sunflower Sundries*</h2>
+<font size=4>
+
 - Sunflower Sundries Lavender Soap, 12/4.5oz
 - Sunflower Sundries Lemongrass Soap, 12/4.5oz
 - Sunflower Sundries Rose Geranium Soap, 12/4.5oz
 
-##*Lighthouse*
-- Lighthouse Cinnamon Cider Cubes, 50/2.5oz
-- Lighthouse Butter Rum Candle, 12/10oz
-- Lighthouse Wild Blueberry Candle, 12/10oz
-
-##*Black Dog*
-- Black Dog Creme Brulee Glass Tumbler Soy Candle, 12/9oz
-- Black Dog Creme Brulee Round Aluminum Tin Soy Candle, 12/8oz
-- Black Dog Harvest Spice Glass Tumbler Soy Candle, 12/9oz
-- Black Dog Harvest Spice Round Aluminum Tin Soy Candle, 12/8oz
-- Black Dog Christmas Past Glass Tumbler Soy Candle, 12/9oz
-- Black Dog Christmas Past Round Aluminum Tin Soy Candle, 12/8oz
+</font>
 
 ---
 
-#<font size=7>**Snacks and Candies**</font>
-##*Mr. G's*
-- Mr. G's Kettle Corn, 12/7oz
-- Mr. G's Kettle Corn, 30/1.5oz
-- Mr. G's Raw Popcorn Kernels, 6/16oz
-- Mr. G's Theater Popcorn, 6/11oz
+<!--Snacks and Candies---------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Snacks and Candies**</font></h1>
 
-##*PPLC*
-- PPLC Cheese Microwave Popcorn, 12/9oz
-- PPLC Extra Buttter Microwave Popcorn, 12/9oz
-- PPLC Jalapeno Microwave Popcorn, 12/9oz
+<h2>*Bev's Best Brittle*</h2>
+<font size=4>
 
-##*Grateful G.*
-- Grateful G. Chocolate Snack Pack, 6/6oz
-- Grateful G. Original Snack Pack, 6/6oz
-- Grateful G. Choc. Choc. Bite, 6/8oz
-- Grateful G. Peanut Butter Choc Bite, 6/8oz
-- Grateful G. Pumpkin Pecan Spice Bite, 6/8oz
-
-##*Bev's Best Brittle*
 - Bev's Best Brittle Peanut Brittle, 12/6.5oz
-- Bev's Best Brittle Choc Layered Bites, 12/8oz
+- Bev's Best Brittle Chocolate Layered Bites, 12/8oz
+- Bev's Best Brittle Dark Chocolate Drizzled Brittle Bites, 12/8oz
+- Bev's Best Brittle White Chocolate Drizzled Brittle Bites, 12/8oz
+- Bev's Best Brittle Chocolate Layered Drizzled Brittle Bites, 12/8oz
 
-##*Solio*
-- Solio Non-GMO Canola Oil, 6/32oz
+</font>
 
-##*Dee's Nutz*
+<h2>*DB*</h2>
+<font size=4>
+
+- DB Bourbon Balls, 12/4pack
+
+</font>
+
+<h2>*Dee's Nutz*</h2>
+<font size=4>
+
 - Dee's Nutz Honey Bourbon Nuts, 12/6oz
 - Dee's Nutz Beer Cheese Peanuts, 12/6oz
 - Dee's Nutz Bluegrass Trail Mix, 12/6oz
@@ -398,7 +564,70 @@ output:
 - Dee's Nutz Bluegrass Trail Mix, 24/1oz
 - Dee's Nutz Honey Bourbon Nuts, 24/1oz
 
-##*Sweetgrass*
+</font>
+
+<h2>*Grateful Grahams*</h2>
+<font size=4>
+
+- Grateful G. Chocolate Snack Pack, 6/6oz
+- Grateful G. Original Snack Pack, 6/6oz
+- Grateful G. Choc. Choc. Bite, 6/8oz
+- Grateful G. Peanut Butter Choc Bite, 6/8oz
+- Grateful G. Pumpkin Pecan Spice Bite, 6/8oz
+
+</font>
+
+<h2>*Lou. Vegan Jerky*</h2>
+<font size=4>
+
+- Lou. Vegan Jerky Maple Bacon, 8/2.5oz
+- Lou. Vegan Jerky Sriracha and Maple, 8/2.5oz
+- Lou. Vegan Jerky Sm Chipotle, 8/2.5oz
+- Lou. Vegan Jerky Bourbon Sm Pepper, 8/2.5oz
+
+</font>
+
+<h2>*Mom Blakeman's*</h2>
+<font size=4>
+
+- Mom Blakeman's Potato Candy, 12/8oz
+- Mom Blakeman's Candy Orange, 12/8oz
+- Mom Blakeman's Candy Original, 12/8oz
+- Mom Blakeman's Candy Peppermint, 12/8oz
+- Mom Blakeman's Candy Peanut Butter, 12/8oz
+- Mom Blakeman's Candy Strawberry, 12/8oz
+
+</font>
+
+<h2>*Mr. G's*</h2>
+<font size=4>
+
+- Mr. G's Kettle Corn, 12/7oz
+- Mr. G's Kettle Corn, 30/1.5oz
+- Mr. G's Raw Popcorn Kernels, 6/16oz
+- Mr. G's Theater Popcorn, 6/11oz
+
+</font>
+
+<h2>*Preferred Popcorn*</h2>
+<font size=4>
+
+- PPLC Cheese Microwave Popcorn, 12/9oz
+- PPLC Extra Buttter Microwave Popcorn, 12/9oz
+- PPLC Jalapeno Microwave Popcorn, 12/9oz
+
+</font>
+
+<h2>*Solio*</h2>
+<font size=4>
+
+- Solio Non-GMO Canola Oil, 6/32oz
+
+</font>
+
+<h2>*Sweetgrass*</h2>
+<font size=4>
+
 - Sweetgrass Granola KY Harvest, 10/12oz
 - Sweetgrass Cinnamon Kane Granola, 10/11.5oz
 - Sweetgrass Cherry Home Companion Granola, 10/11.5oz
@@ -407,37 +636,32 @@ output:
 - Sweetgrass Elliie Finns Chocolate, 12/2.5oz
 - Sweetgrass Ellie Finns Apple Cinnamon, 12/2.5oz
 
-##*DB*
-- DB Bourbon Balls, 12/4pack
-
-##*Lou. Vegan Jerky*
-- Lou. Vegan Jerky Maple Bacon, 8/2.5oz
-- Lou. Vegan Jerky Sriracha and Maple, 8/2.5oz
-- Lou. Vegan Jerky Sm Chipotle, 8/2.5oz
-- Lou. Vegan Jerky Bourbon Sm Pepper, 8/2.5oz
-
-##*Mom Blakeman's*
-- Mom Blakeman's Potato Candy, 12/8oz
-- Mom Blakeman's Candy Orange, 12/8oz
-- Mom Blakeman's Candy Original, 12/8oz
-- Mom Blakeman's Candy Peppermint, 12/8oz
-- Mom Blakeman's Candy Peanut Butter, 12/8oz
-- Mom Blakeman's Candy Strawberry, 12/8oz
+</font>
 
 ---
 
-#<font size=7>**Pet Food**</font>
-##*Rudy Green's*
+<!--Pet Food-------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Pet Food**</font></h1>
+
+<h2>*Rudy Green's*</h2>
+<font size=4>
+
 - Rudy Green's Beefy Rice, 8/24oz
 - Rudy Green's Chicken & Veggies, 8/24oz
 - Rudy Green's Fish Stew, 8/24oz
 - Rudy Green's Pork Pasta Potato, 8/24oz
 - Rudy Green's Turkey Mac n Cheese, 8/24oz
 
+</font>
+
 ---
 
-#<font size=7>**Ice Cream**</font>
-##*Crank & Boom*
+<!--Ice Cream------------------------------------------------------------->
+<h1 style="text-align:center"><font size=7>**Ice Cream**</font></h1>
+
+<h2>*Crank & Boom*</h2>
+<font size=4>
+
 - Crank & Boom Bourbon/HoneyIce Cream, 18/16oz
 - Crank & Boom Coffee Stout Ice Cream, 18/16oz
 - Crank & Boom Dark Choc Truffle Ice Cream, 18/16oz
@@ -445,3 +669,5 @@ output:
 - Crank & Boom Strawberry Ice Cream, 18/16oz
 - Crank & Boom Superfudge, 18/16oz
 - Crank & Boom Vanilla Bean Ice Cream, 18/16oz
+
+</font>

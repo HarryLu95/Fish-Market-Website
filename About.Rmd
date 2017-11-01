@@ -47,7 +47,9 @@ Sincerely,
 
 ##<font face="High Tower Text" size=4>Our Location</font>
 
-<center><font face="High Tower Text" color=black size=6>*1406 West Chestnut St, Louisville, KY 40203*</font></center>
+<br>
+
+<center><font face="High Tower Text" color=black size=6>***1406 West Chestnut St, Louisville, KY 40203***</font></center>
 
 <br>
 
@@ -57,7 +59,7 @@ img {
 }
 </style>
 
-```{r,location,echo=FALSE,warning=FALSE,message=FALSE,eval=T}
+```{r,location,echo=FALSE,warning=FALSE,message=FALSE,eval=F}
 library(ggmap)
 mapImageData=get_map(location=c(lon=-85.7750,lat=38.2505),
                      color="color",
