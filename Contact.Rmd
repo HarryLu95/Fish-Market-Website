@@ -11,7 +11,7 @@ img {
 
 
 <font face="High Tower Text" size=5><nav>
-<font size=6>***Missed Something?***</font>
+<p style="text-align:center"><font size=6>***Need Something Else?***</font></p>
 
 - [<font color=SteelBlue>**Fishmarket Seafoods**</font>](Brand_FishmarketSeafoods.html)
 
@@ -26,9 +26,9 @@ img {
 </nav></font>
 
 <section style="text-align:center">
-<font face="GungsuhChe" color=black size=7>**To Order, Call 502-587-7474**</font>
+<font face="GungsuhChe" color=black size=6>**To Order, Call 502-587-7474**</font>
 <br>
-<font color=black size=7>*or*</font>
+<font color=black size=6>*or*</font>
 <br>
-<font face="GungsuhChe" color=black size=7><b>Email: sales@fishmarketseafoods.net<b></font>
+<font face="GungsuhChe" color=black size=6><b>Email: sales@fishmarketseafoods.net<b></font>
 </section>
