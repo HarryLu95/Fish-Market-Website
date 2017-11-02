@@ -30,7 +30,7 @@ img {
 
 <!--Seafood - Fresh Fish-------------------------------------------------->
 <h2>*Fresh Fish*</h2>
-<font size=4><div class="three-column">
+<font size=4><div class="two-column">
 
 - Artic Char
 - Barramundi
