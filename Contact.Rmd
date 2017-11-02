@@ -26,9 +26,9 @@ img {
 </nav></font>
 
 <section style="text-align:center">
-<font face="GungsuhChe" color=black size=6>**To Order, Call 502-587-7474**</font>
+<font face="GungsuhChe" color=black size=6>**To Order, Call:<br>502-587-7474**</font>
 <br>
 <font color=black size=6>*or*</font>
 <br>
-<font face="GungsuhChe" color=black size=6><b>Email: sales@fishmarketseafoods.net<b></font>
+<font face="GungsuhChe" color=black size=6><b>Email:<br>sales@fishmarketseafoods.net<b></font>
 </section>

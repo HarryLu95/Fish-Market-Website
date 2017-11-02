@@ -1,5 +1,5 @@
 ---
-title: <center><font face="Algerian" color=SteelBlue size=16>FISHMARKET INC.</font></center>
+title: <center><font face="Algerian" color=SteelBlue size=7>FISHMARKET INC.</font></center>
 output: 
   html_document:
     toc: true
@@ -11,6 +11,7 @@ output:
 
 #<font face="Brush Script MT" color=SteelBlue size=7>What We Make</font>
 
+<center>
 <div class="box">
 <a href="Brand_FishmarketSeafoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
 
@@ -37,11 +38,13 @@ output:
 
 <center><font size=5>Copper Kettle</font></center>
 </div>
+</center>
 
 ---
 
 #<font face="Brush Script MT" color=SteelBlue size=7>What We Distribute</font>
 
+<center>
 <div class="box">
 <a href="Splty_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
 
@@ -53,6 +56,7 @@ output:
 
 <center><font size=5>More</font></center>
 </div>
+</center>
 
 ---
 

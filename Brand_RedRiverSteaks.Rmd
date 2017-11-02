@@ -148,8 +148,8 @@ img {
 
 - Whole Fryers
 - Cut Up Fryers
-- Fresh Random Skinless/Boneless Breasts
-- Sized Fresh Skinless/Boneless Breasts
+- Fresh Random Skinless / Boneless Breasts
+- Sized Fresh Skinless / Boneless Breasts
 - BI Breasts
 - Legs
 - Wings
@@ -211,7 +211,7 @@ img {
 <font size=4><div class="two-column">
 
 - Racks
-- Legs (B/I and Semi-Boneless)
+- Legs (B / I and Semi-Boneless)
 - Loins
 
 </div></font>
