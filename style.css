@@ -20,12 +20,14 @@ img {
 }
 /*-------------脚标设置-------------*/
 footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
+  left: 0;
   right: 0;
-  height: 50px;
+  height: relative;
+  clear: both;
   background-color: white;
-  width: 50px;
+  width: 100%;
 }
 /*-------------其他设置-------------*/
 @media screen and (min-width:600px) {
@@ -37,6 +39,18 @@ footer {
 /*    margin-left: 25%;*/
     float: right;
     width: 70%;
+  }
+  .footer_contact {
+    float: left;
+    width: 40%;
+  }
+  .footer_quicklink {
+    float: left;
+    width: 35%;
+  }
+  .footer_social_privacy {
+    float: right;
+    width: 25%;
   }
 /*    ---------三列文字---------    */
 .three-column {
