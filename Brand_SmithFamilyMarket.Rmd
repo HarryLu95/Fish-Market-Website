@@ -2,7 +2,7 @@
 title: "![Smith's Family Market](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png)"
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_float: true
 ---
 <style>

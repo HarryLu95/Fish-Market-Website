@@ -2,7 +2,7 @@
 title: "![Copper Kettle](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)"
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>
@@ -25,16 +25,6 @@ output:
 <img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg" alt="Benedictine" width="80%">
 
 [Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg
-
----
-
-<h1 style="text-align:center"><font size=7>**Cheeseballs**</font></h1>
-
-<font size=5>
-
-- Country Ham Cheeseballs
-
-</font>
 
 <br>
 <br>

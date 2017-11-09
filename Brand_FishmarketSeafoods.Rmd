@@ -83,7 +83,7 @@ img {
 - Canadian Hard Shell Lobsters
 - East Coast Shell Oysters
 - Canadian Shell Oysters
-- PEI Mussels
+- Prince Edward Island Mussels
 - Little Neck Clams
 - Cherry Stone Clams
 
@@ -102,7 +102,7 @@ img {
 - Trout
 - Haddock
 - Pollock
-- Monk
+- Monkfish
 - Red Snapper
 - Grouper
 - Mahi Mahi
@@ -123,17 +123,27 @@ img {
 
 - Cooked Peeled and Deveined
 - Raw Peeled and Deveined
-- Raw Shell on Tigers, Venemei Whites, Domestic
+- Raw Shell on Tigers, Vannamei Whites, Domestic
 
 </div></font>
 
-<!--Seafood - Specialties------------------------------------------------->
-<h2>*Specialties*</h2>
+<!--Seafood - Seafood Cheese Balls---------------------------------------->
+<h2>*Seafood Cheese Balls* ([Fact Sheet][FS_SeafoodCB])</h2>
 <font size=4><div class="two-column">
 
-- Crab Cheeseballs
+- Crabmeat Cheeseballs
 - Shrimp Cheeseballs
 - Smoked Salmon Cheeseballs
+
+[FS_SeafoodCB]: FactSheet_SeafoodCheeseBalls.html
+
+</div></font>
+
+<!--Seafood - Specialties Cheese Balls------------------------------------>
+<h2>*Specialty Cheese Balls*</h2>
+<font size=4><div class="two-column">
+
+- Country Ham Cheeseballs
 
 </div></font>
 
