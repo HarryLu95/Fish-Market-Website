@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
@@ -166,101 +163,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -361,44 +263,42 @@ div.tocify {
 <a href="#">TOP</a>
 </div>
 <hr />
-<div id="what-we-make" class="section level1">
-<h1><font face="Brush Script MT" color=SteelBlue size=7>What We Make</font></h1>
+<div id="about-us" class="section level1">
+<h1><font face="Brush Script MT" color=SteelBlue size=7>About Us</font></h1>
+<p><strong>balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala</strong></p>
+<p><font size=5><a href="About.html">More…</a></font></p>
+<hr />
+</div>
+<div id="our-brands-and-what-we-distribute" class="section level1">
+<h1><font face="Brush Script MT" color=SteelBlue size=7>Our Brands and What We Distribute</font></h1>
 <center>
 <div class="box">
-<p><a href="Brand_FishmarketSeafoods.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg" /></a></p>
+<a href="Brand_FishmarketSeafoods.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg" /></a>
 <center>
 <font size=5>Fishmarket Seafoods</font>
 </center>
 </div>
 <div class="box">
-<p><a href="Brand_RedRiverSteaks.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Red_River_Steaks.jpg" /></a></p>
-<br>
+<a href="Brand_RedRiverSteaks.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Red_River_Steaks.jpg" /></a> <br>
 <center>
 <font size=5>Red River Steaks</font>
 </center>
 <p><br></p>
 </div>
 <div class="box">
-<p><a href="Brand_SmithFamilyMarket.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png" /></a></p>
-<br>
+<a href="Brand_SmithFamilyMarket.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png" /></a> <br>
 <center>
 <font size=5>Smith’s Family Market</font>
 </center>
 </div>
 <div class="box">
-<p><a href="Brand_CopperKettle.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg" /></a></p>
+<a href="Brand_CopperKettle.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg" /></a>
 <center>
 <font size=5>Copper Kettle</font>
 </center>
 </div>
-</center>
-<hr />
-</div>
-<div id="what-we-distribute" class="section level1">
-<h1><font face="Brush Script MT" color=SteelBlue size=7>What We Distribute</font></h1>
-<center>
 <div class="box">
-<p><a href="Splty_KentuckyProud.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg" /></a></p>
+<a href="Splty_KentuckyProud.html"><img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg" /></a>
 <center>
 <font size=5>Kentucky Proud Local Items</font>
 </center>
@@ -413,12 +313,7 @@ div.tocify {
 </center>
 </div>
 </center>
-<hr />
-</div>
-<div id="about-us" class="section level1">
-<h1><font face="Brush Script MT" color=SteelBlue size=7>About Us</font></h1>
-<p><strong>balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala</strong></p>
-<p><font size=5><a href="About.html">More…</a></font></p>
+<p><br> <br> <br></p>
 <hr />
 <footer>
 <center>
@@ -456,8 +351,6 @@ Address: <a href="https://www.google.com/maps/place/1406+W+Chestnut+St,+Louisvil
 
 
 
-</div>
-</div>
 
 </div>
 

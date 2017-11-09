@@ -9,7 +9,7 @@ img {
 
 <div id="backhome"><a href="index.html">HOME</a></div>
 
-
+<body>
 <font face="High Tower Text" size=5><nav>
 <p style="text-align:center"><font size=6>***Need Something Else?***</font></p>
 
@@ -33,10 +33,19 @@ img {
 <font face="GungsuhChe" color=black size=6><b>Email:<br>sales@fishmarketseafoods.net<b></font>
 </section>
 
+</body>
+
+
 
 
 
 <footer>
+
+<br>
+<br>
+<br>
+
+---
 
 <center>**Copyright &copy; 2017 Fishmarket Inc. All rights reserved.**</center>
 

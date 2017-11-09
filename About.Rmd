@@ -36,6 +36,10 @@ Sincerely,
 *Bradley W Smith*
 </b></font>
 
+<br>
+<br>
+<br>
+
 ---
 
 <footer>
@@ -95,6 +99,10 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 ###<font size=6>2016</font>
 - balabala
 
+<br>
+<br>
+<br>
+
 ---
 
 <footer>
@@ -130,6 +138,10 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 </footer>
 
 ##<font face="High Tower Text" size=4>Photos</font>
+
+<br>
+<br>
+<br>
 
 ---
 
@@ -194,6 +206,9 @@ ggmap(mapImageData,
       xlab="Longitude")
 ```
 
+<br>
+<br>
+<br>
 
 ---
 
