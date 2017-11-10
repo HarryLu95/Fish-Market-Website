@@ -5,6 +5,7 @@ output:
     toc: true
     toc_float: 
       collapsed: false
+    toc_depth: 2
 ---
 <style>
 img {
@@ -127,25 +128,21 @@ img {
 
 </div></font>
 
-<!--Seafood - Seafood Cheese Balls---------------------------------------->
-<h2>*Seafood Cheese Balls* ([Fact Sheet][FS_SeafoodCB])</h2>
+<!--Seafood - Cheese Balls------------------------------------------------>
+<h2>*Cheese Balls*</h2>
+<h3>*Seafood Cheese Balls* ([Fact Sheet][FS_SeafoodCB])</h3>
 <font size=4><div class="two-column">
 
-- Crabmeat Cheeseballs
-- Shrimp Cheeseballs
-- Smoked Salmon Cheeseballs
+- Crabmeat Cheese Balls
+- Shrimp Cheese Balls
+- Smoked Salmon Cheese Balls
 
 [FS_SeafoodCB]: FactSheet_SeafoodCheeseBalls.html
 
 </div></font>
 
-<!--Seafood - Specialties Cheese Balls------------------------------------>
-<h2>*Specialty Cheese Balls*</h2>
-<font size=4><div class="two-column">
-
-- Country Ham Cheeseballs
-
-</div></font>
+<h3>*Country Ham Cheese Balls* ([Fact Sheet][FS_HamCB])</h3>
+[FS_HamCB]: FactSheet_CountryHamCheeseBalls.html
 
 <br>
 <br>

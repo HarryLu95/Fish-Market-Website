@@ -1,44 +1,23 @@
 ---
-title: "Fact Sheet - Seafood Cheese Balls"
+title: "Fact Sheet"
 output: html_document
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
-<div id="backpage"><a href="Brand_FishmarketSeafoods.html#_cheese_balls_">BACK</a></div>
+<div id="backpage"><a href="Brand_CopperKettle.html">BACK</a></div>
 
 <font size=4>
 
-Crabmeat Cheese Balls|
+Hot Beer Cheese|
 :---:|:---:
-Brand Name|Fishmarket Seafoods
-Description|Crabmeat Cheese Balls
-Pack|12/10oz
-Case Weight|7.5lb
-Case Cube|0.425
-Shelf Life|45 days from date of production
-Item Number|44020
+Brand Name|Copper Kettle Label
+Description|Hot Beer Cheese
+Pack|12/8oz
+Case Weight|6lb
+Case Cube|0.297
+Shelf Life|90 days from date of production
+Item Number|60006
 
-Shrimp Cheese Balls|
-:---:|:---:
-Brand Name|Fishmarket Seafoods
-Description|Shrimp Cheese Balls
-Pack|12/10oz
-Case Weight|7.5lb
-Case Cube|0.425
-Shelf Life|45 days from date of production
-Item Number|44021
-
-Smoked Salmon Cheese Balls|
-:---:|:---:
-Brand Name|Fishmarket Seafoods
-Description|Smoked Salmon Cheese Balls
-Pack|12/10oz
-Case Weight|7.5lb
-Case Cube|0.425
-Shelf Life|45 days from date of production
-Item Number|44022
-
-![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/Fishmarket/Seafood%20Cheese%20Balls.jpg)
 </font>
 
 <br>

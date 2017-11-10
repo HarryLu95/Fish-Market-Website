@@ -10,7 +10,7 @@ navbar:
     - text: "About Us"
       icon: fa-book
       href: About.html
-    - text: "Our Brands"
+    - text: "Products"
       icon: fa-bars
       menu:
         - text: "Fishmarket Seafoods"
@@ -21,9 +21,6 @@ navbar:
         - href: Brand_SmithFamilyMarket.html
         - text: "Copper Kettle"
         - href: Brand_CopperKettle.html
-    - text: "Specialty Products"
-      icon: fa-bars
-      menu:
         - text: "Kentucky Proud Local Items"
         - href: Splty_KentuckyProud.html
     - text: "Contact"

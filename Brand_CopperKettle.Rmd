@@ -16,15 +16,17 @@ output:
 
 <font size=5>
 
-- Beer Cheese Spread - Mild
-- Beer Cheese Spread - Hot
-- [Benedictine Cucumber Spread][Benedictine]
+- Beer Cheese Spread - Mild ([Fact Sheet][Mild BC])
+- Beer Cheese Spread - Hot ([Fact Sheet][Hot BC])
+- Benedictine Cucumber Spread ([Fact Sheet][Benedictine])
 
 </font>
 
 <img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg" alt="Benedictine" width="80%">
 
-[Benedictine]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg
+[Mild BC]: FactSheet_BeerCheeseMild.html
+[Hot BC]: FactSheet_BeerCheeseHot.html
+[Benedictine]: FactSheet_Benedictine.html
 
 <br>
 <br>

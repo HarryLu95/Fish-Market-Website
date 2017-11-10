@@ -20,25 +20,26 @@ img {
 
 <font size=5>
 
-- [Breaded Green Tomatoes][Tomato]
-- [Breaded Oysters][B Oyster]
-- [Rolled Oysters (Po Boy)][R Oyster]
-- [Breaded Pickles][Pickle]
-- [Breaded Salmon Patties][Salmon]
-- [Hand Cut Breaded Cod Filets][Cod]
-- [Maryland Style Crab Cakes][Crab Cake]
-- [Mini Crab Cakes][Crab Cake]
-- <font color=red>**Breaded Chicken???**</font>
+- Breaded Chicken ([Fact Sheet][Chicken])
+- Breaded Green Tomatoes ([Fact Sheet][Tomato])
+- Breaded Oysters ([Fact Sheet][B Oyster])
+- Rolled Oysters (Po Boy) ([Fact Sheet][R Oyster])
+- Breaded Pickles ([Fact Sheet][Pickle])
+- Breaded Salmon Patties ([Fact Sheet][Salmon])
+- Hand Cut Breaded Cod Filets ([Fact Sheet][Cod])
+- Maryland Style Crab Cakes
+- Mini Crab Cakes ([Fact Sheet][Mini Crab Cake])
 
 </font>
 
+[Chicken]: FactSheet_BreadedChicken.html
 [Tomato]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Green%20Tomatoes.jpg
 [B Oyster]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Oysters%20(Po%20Boy).jpg
 [R Oyster]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Rolled%20Oysters.jpg
 [Pickle]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Pickles.jpg
 [Salmon]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Salmon%20Patties.jpg
 [Cod]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Hand%20Cut%20Breaded%20Cod%20Filets.jpg  
-[Crab Cake]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Crab%20Cakes.jpg
+[Mini Crab Cake]: https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Crab%20Cakes.jpg
 
 <br>
 <br>

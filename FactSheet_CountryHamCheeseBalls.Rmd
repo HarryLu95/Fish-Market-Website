@@ -1,5 +1,5 @@
 ---
-title: "Fact Sheet - Seafood Cheese Balls"
+title: "Fact Sheet"
 output: html_document
 ---
 <div id="backtop"><a href="#">TOP</a></div>
@@ -8,37 +8,16 @@ output: html_document
 
 <font size=4>
 
-Crabmeat Cheese Balls|
+Country Ham Cheese Balls|
 :---:|:---:
 Brand Name|Fishmarket Seafoods
-Description|Crabmeat Cheese Balls
+Description|Country Ham Cheese Balls
 Pack|12/10oz
 Case Weight|7.5lb
 Case Cube|0.425
 Shelf Life|45 days from date of production
-Item Number|44020
+Item Number|48989
 
-Shrimp Cheese Balls|
-:---:|:---:
-Brand Name|Fishmarket Seafoods
-Description|Shrimp Cheese Balls
-Pack|12/10oz
-Case Weight|7.5lb
-Case Cube|0.425
-Shelf Life|45 days from date of production
-Item Number|44021
-
-Smoked Salmon Cheese Balls|
-:---:|:---:
-Brand Name|Fishmarket Seafoods
-Description|Smoked Salmon Cheese Balls
-Pack|12/10oz
-Case Weight|7.5lb
-Case Cube|0.425
-Shelf Life|45 days from date of production
-Item Number|44022
-
-![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/Fishmarket/Seafood%20Cheese%20Balls.jpg)
 </font>
 
 <br>
