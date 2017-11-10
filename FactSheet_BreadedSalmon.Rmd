@@ -14,7 +14,7 @@ Brand Name|Smith¡¯s Family Market
 Description|Breaded Salmon Patty
 Pack|54/3oz
 Case Weight|10# or 4.54kg
-Case Cube|.44
+Case Cube|0.44
 Shelf Life|1 year from date of production
 Item Number|67118
 

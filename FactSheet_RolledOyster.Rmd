@@ -8,13 +8,13 @@ output: html_document
 
 <font size=4>
 
-Rolled Oyster|
+Rolled Oysters (Po Boy)|
 :---:|:---:
 Brand Name|Smith¡¯s Family Market
 Description|Rolled Oyster
 Pack|50 ct IQF Bulk
 Case Weight|14#
-Case Cube|.44
+Case Cube|0.44
 Shelf Life|1 year from date of production
 Item Number|20009
 
