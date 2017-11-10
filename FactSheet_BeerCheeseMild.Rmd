@@ -13,7 +13,7 @@ Mild Beer Cheese|
 Brand Name|Copper Kettle Label
 Description|Mild Beer Cheese
 Pack|12/8oz
-Case Weight|6lb
+Case Weight|6#
 Case Cube|0.297
 Shelf Life|90 days from date of production
 Item Number|60001
