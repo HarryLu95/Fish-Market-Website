@@ -22,8 +22,6 @@ output:
 
 </font>
 
-<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Benedictine.jpg" alt="Benedictine" width="80%">
-
 [Mild BC]: FactSheet_BeerCheeseMild.html
 [Hot BC]: FactSheet_BeerCheeseHot.html
 [Benedictine]: FactSheet_Benedictine.html
