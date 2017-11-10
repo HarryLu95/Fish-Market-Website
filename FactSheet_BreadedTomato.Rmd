@@ -8,19 +8,19 @@ output: html_document
 
 <font size=4>
 
-Breaded Chicken|
+Breaded Green Tomatoes|
 :---:|:---:
 Brand Name|Smith¡¯s Family Market
-Description|Breaded Chicken Tenderloin Fritter ¡°Kentucky Proud¡±
-Pack|1/10## Bulk
-Case Weight|10#
+Description|Breaded Green Tomato Slices 8-10ct per pound
+Pack|1/10# IQF Bulk
+Case Weight|10# or 4.54kg
 Case Cube|0.44
 Shelf Life|1 year from date of production
-Item Number|66716
+Item Number|66710
 
 </font>
 
-![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Chicken.png)
+![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Breaded%20Green%20Tomatoes.jpg)
 
 <br>
 <br>

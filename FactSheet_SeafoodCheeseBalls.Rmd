@@ -15,6 +15,7 @@ Description|Crabmeat Cheese Balls
 Pack|12/10oz
 Case Weight|7.5lb
 Case Cube|0.425
+Ti/Hi|10/12
 Shelf Life|45 days from date of production
 Item Number|44020
 
@@ -25,6 +26,7 @@ Description|Shrimp Cheese Balls
 Pack|12/10oz
 Case Weight|7.5lb
 Case Cube|0.425
+Ti/Hi|10/12
 Shelf Life|45 days from date of production
 Item Number|44021
 
@@ -35,6 +37,7 @@ Description|Smoked Salmon Cheese Balls
 Pack|12/10oz
 Case Weight|7.5lb
 Case Cube|0.425
+Ti/Hi|10/12
 Shelf Life|45 days from date of production
 Item Number|44022
 
