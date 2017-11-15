@@ -13,7 +13,7 @@ Crabmeat Cheese Balls|
 Brand Name|Fishmarket Seafoods
 Description|Crabmeat Cheese Balls
 Pack|12/10oz
-Case Weight|7.5lb
+Case Weight|7.5#
 Case Cube|0.425
 Ti/Hi|10/12
 Shelf Life|45 days from date of production
@@ -24,7 +24,7 @@ Shrimp Cheese Balls|
 Brand Name|Fishmarket Seafoods
 Description|Shrimp Cheese Balls
 Pack|12/10oz
-Case Weight|7.5lb
+Case Weight|7.5#
 Case Cube|0.425
 Ti/Hi|10/12
 Shelf Life|45 days from date of production
@@ -35,7 +35,7 @@ Smoked Salmon Cheese Balls|
 Brand Name|Fishmarket Seafoods
 Description|Smoked Salmon Cheese Balls
 Pack|12/10oz
-Case Weight|7.5lb
+Case Weight|7.5#
 Case Cube|0.425
 Ti/Hi|10/12
 Shelf Life|45 days from date of production

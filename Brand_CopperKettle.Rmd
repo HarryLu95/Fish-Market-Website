@@ -2,7 +2,7 @@
 title: "![Copper Kettle](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)"
 output: 
   html_document:
-    toc: false
+    toc: true
     toc_float: true
 ---
 <div id="backtop"><a href="#">TOP</a></div>

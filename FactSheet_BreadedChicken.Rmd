@@ -12,7 +12,7 @@ Breaded Chicken|
 :---:|:---:
 Brand Name|Smith¡¯s Family Market
 Description|Breaded Chicken Tenderloin Fritter ¡°Kentucky Proud¡±
-Pack|<font color=red>**1/10## Bulk**???</font>
+Pack|1/10# Bulk
 Case Weight|10#
 Case Cube|0.44
 Shelf Life|1 year from date of production

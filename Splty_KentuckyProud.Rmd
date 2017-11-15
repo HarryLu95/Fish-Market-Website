@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+    toc_depth: 2
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>

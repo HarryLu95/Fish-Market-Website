@@ -138,6 +138,58 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 </footer>
 
 ##<font face="High Tower Text" size=4>Photos</font>
+###<font size=6>Our People</font>
+- balabala
+- balabala
+
+###<font size=6>Meat Lines & Factories</font>
+- balabala
+- balabala
+
+<br>
+<br>
+<br>
+
+---
+
+<footer>
+
+<center>**Copyright &copy; 2017 Fishmarket Inc. All rights reserved.**</center>
+
+<font face="Calibri" color=SteelBlue>
+
+<div class="footer_contact"><center>
+[<font color=SteelBlue size=5>Contact Us</font>](Contact.html)  
+Phone: 502-587-7474  
+Email: sales@fishmarketseafoods.net  
+Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</font>](https://www.google.com/maps/place/1406+W+Chestnut+St,+Louisville,+KY+40203)
+</center></div>
+
+<div class="footer_quicklink"><center>
+<font color=SteelBlue size=5>Quick Links</font>  
+[<font color=SteelBlue>*Fishmarket Seafoods*</font>](Brand_FishmarketSeafoods.html)  
+[<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
+[<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
+[<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
+[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
+</center></div>
+
+<div class="footer_social_privacy"><center>
+<font color=SteelBlue size=5>Social Media</font>  
+<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<font color=SteelBlue size=5>Privacy|Disclaimer</font>
+</center></div>
+
+</font>
+
+</footer>
+
+##<font face="High Tower Text" size=4>Honors</font>
+###<font size=6>Kentucky Proud Promotional Program</font>
+- <font size=5>*Intro & Certificate*</font>
+
+###<font size=6>Indiana Grown</font>
+- <font size=5>*Intro & Certificate*</font>
 
 <br>
 <br>

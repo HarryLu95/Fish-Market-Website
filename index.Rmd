@@ -11,9 +11,13 @@ output:
 
 #<font face="Brush Script MT" color=SteelBlue size=7>About Us</font>
 
-**balabalabalabalabalabalabalaba ,laba labalabalabalab alabalabalabalabal, abalabalabalabalabalab alabalabalaba laba,labalabalabala balabalaba labalabala,balabalab alab,alabalabal,abalaba labalabalabalab al,abalabalabalaba labalab alabalab alabal abalab,alabalaba labalabal,abalabalab alabalabalabalabala b,alabalabala,balabalabala**
+<font face="Times New Roman" size=4><b>
+Established in 1988, Louisville based Fishmarket Inc. was founded with the three guiding principles of providing our customers with: 1. Our best quality products at 2. Our best price with 3. Our best service!
 
-<font size=5>[More...](About.html)</font>
+We began as a full service seafood company but have expanded into production and distribution of: Fresh meats, pork, poultry and veal, Value added items such as breaded tomatos and pickles, cod and oysters, Over 500 Local items ranging from meats to BBQ sauces to Soaps and Candles! We supply both retail and foodservice businesses with this vast array of products with our legendary level of services.
+</b></font>
+
+<font size=5>[*More...*](About.html)</font>
 
 ---
 
@@ -23,36 +27,30 @@ output:
 
 <div class="box">
 <a href="Brand_FishmarketSeafoods.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Fishmarket_Seafoods.jpg)</a>
-<center><font size=5>Fishmarket Seafoods</font></center>
+<center><font size=5>[<font color=SteelBlue>Fishmarket Seafoods</font>](Brand_FishmarketSeafoods.html)</font></center>
 </div>
 
 <div class="box">
 <a href="Brand_RedRiverSteaks.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Red_River_Steaks.jpg)</a>
 <br>
-<center><font size=5>Red River Steaks</font></center>
+<center><font size=5>[<font color=SteelBlue>Red River Steaks</font>](Brand_RedRiverSteaks.html)</font></center>
 <br>
 </div>
 
 <div class="box">
 <a href="Brand_SmithFamilyMarket.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Smiths_Family_Market.png)</a>
 <br>
-<center><font size=5>Smith's Family Market</font></center>
+<center><font size=5>[<font color=SteelBlue>Smith's Family Market</font>](Brand_SmithFamilyMarket.html)</font></center>
 </div>
 
 <div class="box">
 <a href="Brand_CopperKettle.html">![](https://raw.githubusercontent.com/HarryLu95/Fish-Market-Website/master/Logo_Copper_Kettle.jpg)</a>
-<center><font size=5>Copper Kettle</font></center>
+<center><font size=5>[<font color=SteelBlue>Copper Kettle</font>](Brand_CopperKettle.html)</font></center>
 </div>
 
 <div class="box">
 <a href="Splty_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
-<center><font size=5>Kentucky Proud Local Items</font></center>
-</div>
-
-<div class="box">
-![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Fish.png)
-
-<center><font size=5>More</font></center>
+<center><font size=5>[<font color=SteelBlue>Kentucky Proud Local Items</font>](Splty_KentuckyProud.html)</font></center>
 </div>
 
 </center>

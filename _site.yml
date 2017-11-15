@@ -14,15 +14,20 @@ navbar:
       icon: fa-bars
       menu:
         - text: "Fishmarket Seafoods"
-        - href: Brand_FishmarketSeafoods.html
+          icon: fa-caret-right
+          href: Brand_FishmarketSeafoods.html
         - text: "Red River Steaks"
-        - href: Brand_RedRiverSteaks.html
+          icon: fa-caret-right
+          href: Brand_RedRiverSteaks.html
         - text: "Smith's Family Market"
-        - href: Brand_SmithFamilyMarket.html
+          icon: fa-caret-right
+          href: Brand_SmithFamilyMarket.html
         - text: "Copper Kettle"
-        - href: Brand_CopperKettle.html
+          icon: fa-caret-right
+          href: Brand_CopperKettle.html
         - text: "Kentucky Proud Local Items"
-        - href: Splty_KentuckyProud.html
+          icon: fa-caret-right
+          href: Splty_KentuckyProud.html
     - text: "Contact"
       icon: fa-phone
       href: Contact.html

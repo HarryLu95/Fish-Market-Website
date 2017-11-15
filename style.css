@@ -89,7 +89,7 @@ footer {
 #backtop a { /* back to top button */
 	position: fixed;
 	bottom: 50px; /* 小按钮到浏览器底边的距离 */
-	right: 30px; /* 小按钮到浏览器右边框的距离 */
+	right: 31px; /* 小按钮到浏览器右边框的距离 */
 	color: #333; /* 小按钮中文字的颜色 */
 	z-index: 1000;
 	background: #cfcfcf; /* 小按钮底色 */
@@ -129,7 +129,7 @@ footer {
 #backpage a { /* back to previou page button */
 	position: fixed;
 	bottom: 150px; /* 小按钮到浏览器底边的距离 */
-	right: 25px; /* 小按钮到浏览器右边框的距离 */
+	right: 27px; /* 小按钮到浏览器右边框的距离 */
 	color: #333; /* 小按钮中文字的颜色 */
 	z-index: 1000;
 	background: #cfcfcf; /* 小按钮底色 */

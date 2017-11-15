@@ -1,6 +1,11 @@
 ---
 title: "![Contact Information](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Call.png)"
 ---
+
+---
+
+<br>
+
 <style>
 img {
   width: 200px;
