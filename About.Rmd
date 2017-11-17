@@ -186,13 +186,25 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 ##<font face="High Tower Text" size=4>Honors</font>
 ###<font size=6>Kentucky Proud Promotional Program (2017)</font>
-- <font size=5>*Intro & Certificate*</font>
+- <font size=5 color=red>*Descriptions*</font>
+
+<center><div style="width:50%">
+<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_KY_Proud.png")</img>
+</div></center>
 
 ###<font size=6>Indiana Grown</font>
-- <font size=5>*Intro & Certificate*</font>
+- <font size=5 color=red>*Descriptions*</font>
+
+<center><div style="width:50%">
+<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_Indiana_Grown.png")</img>
+</div></center>
 
 ###<font size=6>Better Business Bureau (2011)</font>
-- <font size=5>*Intro & Certificate*</font>
+- <font size=5 color=red>*Descriptions*</font>
+
+<center><div style="width:50%">
+<img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_BBB.png")</img>
+</div></center>
 
 <br>
 <br>
