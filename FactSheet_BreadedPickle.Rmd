@@ -54,7 +54,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
 <i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
-<font color=SteelBlue size=5>Privacy|Disclaimer</font>
+<font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
 </font>

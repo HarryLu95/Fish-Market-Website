@@ -1,26 +1,16 @@
 ---
-title: "Fact Sheet"
+title: "Privacy"
 output: html_document
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
-<div id="backpage"><a href="Brand_SmithFamilyMarket.html">BACK</a></div>
 
-<font size=4>
 
-Hand Cut Breaded Cod Filets|
-:---:|:---:
-Brand Name|Smith¡¯s Family Market
-Description|Breaded Cod Fillet 4-6 oz
-Pack|1/10# IQF Bulk
-Case Weight|10# or 4.54kg
-Case Cube|0.44
-Shelf Life|1 year from date of production
-Item Number|66175
 
-</font>
 
-![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Product%20Photos/CK%20%26%20SFM/Hand%20Cut%20Breaded%20Cod%20Filets.jpg)
+
+
+
 
 <br>
 <br>
