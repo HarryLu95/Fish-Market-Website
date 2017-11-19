@@ -66,7 +66,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
 <font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
@@ -129,7 +129,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
 <font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
@@ -176,7 +176,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
 <font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
@@ -236,7 +236,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
 <font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
@@ -303,7 +303,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 <div class="footer_social_privacy"><center>
 <font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> Facebook</i>  
+<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
 <font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
 </center></div>
 
