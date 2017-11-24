@@ -36,3 +36,4 @@ output:
     theme: cerulean
     highlight: default
     css: style.css
+    encoding: UTF-8
