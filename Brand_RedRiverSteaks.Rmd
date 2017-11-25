@@ -205,7 +205,7 @@ img {
 
 <!--Lamb------------------------------------------------------------------>
 <h1 style="text-align:center"><font size=7>**Lamb**</font></h1>
-<p style="text-align:center"><font color=MidnightBlue size=5>*¡°We provide both Imported and Domestic¡±*</font></p>
+<p style="text-align:center"><font color=MidnightBlue size=5>*"We provide both Imported and Domestic"*</font></p>
 
 <h2>*Primal Cuts*</h2>
 <font size=4><div class="two-column">
