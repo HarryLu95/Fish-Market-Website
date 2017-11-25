@@ -10,7 +10,7 @@ output: html_document
 
 Mini Crab Cakes|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
+Brand Name|Smith's Family Market
 Description|Breaded Mini Crab Cakes	20-30ct per pound
 Pack|1/10# IQF Bulk
 Case Weight|10# or 4.54kg

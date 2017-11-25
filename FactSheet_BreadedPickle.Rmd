@@ -10,7 +10,7 @@ output: html_document
 
 Breaded Pickles|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
+Brand Name|Smith's Family Market
 Description|Breaded Pickle Slices 40-48ct per pound
 Pack|1/10# IQF Bulk
 Case Weight|10# or 4.54kg

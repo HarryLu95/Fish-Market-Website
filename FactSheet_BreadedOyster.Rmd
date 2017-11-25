@@ -10,7 +10,7 @@ output: html_document
 
 Breaded Oyster|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
+Brand Name|Smith's Family Market
 Description|Breaded Select Oyster 16-20ct
 Pack|1/10# IQF Bulk
 Case Weight|10# or 4.54kg

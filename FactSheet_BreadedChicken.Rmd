@@ -10,8 +10,8 @@ output: html_document
 
 Breaded Chicken|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
-Description|Breaded Chicken Tenderloin Fritter ¡°Kentucky Proud¡±
+Brand Name|Smith's Family Market
+Description|Breaded Chicken Tenderloin Fritter "Kentucky Proud"
 Pack|1/10# Bulk
 Case Weight|10#
 Case Cube|0.44

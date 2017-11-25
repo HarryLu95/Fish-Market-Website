@@ -10,7 +10,7 @@ output: html_document
 
 Breaded Salmon Patties|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
+Brand Name|Smith's Family Market
 Description|Breaded Salmon Patty
 Pack|54/3oz
 Case Weight|10# or 4.54kg

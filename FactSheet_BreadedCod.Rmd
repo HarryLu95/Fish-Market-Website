@@ -10,7 +10,7 @@ output: html_document
 
 Hand Cut Breaded Cod Filets|
 :---:|:---:
-Brand Name|Smith¡¯s Family Market
+Brand Name|Smith's Family Market
 Description|Breaded Cod Fillet 4-6 oz
 Pack|1/10# IQF Bulk
 Case Weight|10# or 4.54kg
