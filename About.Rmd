@@ -17,7 +17,7 @@ output:
 <center>
 <font face="Algerian" color=black size=8>FISHMARKET INC.</font>
 
-<font face="Belwe" color=black size=5>*¡°Seafood, Meats and Specialty Foods¡±*</font>
+<font face="Belwe" color=black size=5>*"Seafood, Meats and Specialty Foods"*</font>
 </center>
 
 <br>
