@@ -1,11 +1,15 @@
 ---
-title: <center><font face="Algerian" color=SteelBlue size=7>FISHMARKET INC.</font></center>
+title: <font face="Algerian" color=White size=0.5>FISHMARKET INC.</font>
 output: 
   html_document:
     toc: false
     toc_float: true
 ---
+
 <div id="backtop"><a href="#">TOP</a></div>
+<center><font face="Algerian" color=SteelBlue size=7>FISHMARKET INC.</font></center>
+<br>
+<br>
 
 ---
 
@@ -14,14 +18,14 @@ output:
 <font face="Times New Roman" size=4><b>
 Established in 1988, Louisville based Fishmarket Inc. was founded with the three guiding principles of providing our customers with: 1. Our best quality products at 2. Our best price with 3. Our best service!
 
-We began as a full service seafood company but have expanded into production and distribution of: Fresh meats, pork, poultry and veal, Value added items such as breaded tomatos and pickles, cod and oysters, Over 500 Local items ranging from meats to BBQ sauces to Soaps and Candles! We supply both retail and foodservice businesses with this vast array of products with our legendary level of services.
+We began as a full service seafood company but have expanded into production and distribution of: Fresh meats, pork, poultry and veal, Value added items such as breaded tomatos and pickles, cod and oysters, Over 500 Local items ranging from meats to BBQ sauces to Soaps and Candles! We supply both retail and food service businesses with this vast array of products with our legendary level of services.
 </b></font>
 
 <font size=5>[*More...*](About.html)</font>
 
 ---
 
-#<font face="Brush Script MT" color=SteelBlue size=7>Our Brands and What We Distribute</font>
+#<font face="Brush Script MT" color=SteelBlue size=7>Our Brands & Local Items We Distribute</font>
 
 <center>
 

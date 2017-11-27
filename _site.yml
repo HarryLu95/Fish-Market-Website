@@ -10,6 +10,9 @@ navbar:
     - text: "About Us"
       icon: fa-book
       href: About.html
+    - text: "News & Events"
+      icon: fa-star
+      href: Events.html
     - text: "Products"
       icon: fa-bars
       menu:

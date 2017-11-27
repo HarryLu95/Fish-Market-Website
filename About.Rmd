@@ -1,4 +1,5 @@
 ---
+title: <font face="Brush Script MT" size=7>**About Us**</font>
 output: 
   html_document:
     toc: false
@@ -8,11 +9,8 @@ output:
 ---
 <div id="backtop"><a href="#">TOP</a></div>
 <div id="backhome"><a href="index.html">HOME</a></div>
-<br>
-<br>
-<br>
 
-#<font face="Brush Script MT" size=7>**About Us**</font> {.tabset}
+#{.tabset}
 ##<font face="High Tower Text" size=4>Company History and Philosophy</font>
 <center>
 <font face="Algerian" color=black size=8>FISHMARKET INC.</font>
@@ -29,7 +27,7 @@ In 1998, Steven's twin brother, Bradley Smith joined the company. With the team 
 
 As our company has grown from strictly a seafood company to a full line distributor/processor, we have never lost sight of our "local" family of producers. Hence, we have been a member of "Kentucky Proud" since its inception. We carry over 300 shelf stable items from local family farms and producers. We also procure Kentucky grown beef and pork along with specialty cheeses made here in Kentucky! In addition, we are producing a variety of breaded products such as; breaded pickles, green tomatoes, chicken tenders, oysters and cod just to name a few, under the "Smith's Family Market" brand.
 
-As you can see, <font color=red size=4.5>"We Aren't Just Seafood Anymore"</font>! We have grown as our customers have requested of us and positioned our company to be a supplier of the best Seafood, Meats and Specialty Foods to Retailers and the Foodservice industry in the Midwest. We are proud of our growth and will continue to seek innovative and aggressive ways to manufacture and distribute our vast array of products to all. All this while staying firm in mission statement of "provide our best product with our best service at our best price".
+As you can see, <font color=red size=4.5>"We Aren't Just Seafood Anymore"</font>! We have grown as our customers have requested of us and positioned our company to be a supplier of the best Seafood, Meats and Specialty Foods to Retailers and the Food service industry in the Midwest. We are proud of our growth and will continue to seek innovative and aggressive ways to manufacture and distribute our vast array of products to all. All this while staying firm in mission statement of "provide our best product with our best service at our best price".
 
 Sincerely,  
 *Steven C Smith*  
@@ -74,133 +72,20 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 
 </footer>
 
-##<font face="High Tower Text" size=4>Events</font>
-###<font size=6>2017</font>
-- <font size=5>*Food and Wine Experience*</font>
-
-<center>
-<div style="width:43%" class="box_event">
-<a href="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(1).JPG">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(1).JPG)</a>
-</div>
-
-<div style="width:43%" class="box_event">
-<a href="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(2).JPG">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(2).JPG)</a>
-</div>
-
-<div style="width:43%" class="box_event">
-<a href="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(3).JPG">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(3).JPG)</a>
-</div>
-
-<div style="width:43%" class="box_event">
-<a href="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(4).JPG">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Food%20and%20Wine%20Experience%202017%20(4).JPG)</a>
-</div>
-</center>
-
-###<font size=6>2016</font>
-- balabala
-
-<br>
-<br>
-<br>
-
----
-
-<footer>
-
-<center>**Copyright &copy; 2017 Fishmarket Inc. All rights reserved.**</center>
-
-<font face="Calibri" color=SteelBlue>
-
-<div class="footer_contact"><center>
-[<font color=SteelBlue size=5>Contact Us</font>](Contact.html)  
-Phone: 502-587-7474  
-Email: sales@fishmarketseafoods.net  
-Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</font>](https://www.google.com/maps/place/1406+W+Chestnut+St,+Louisville,+KY+40203)
-</center></div>
-
-<div class="footer_quicklink"><center>
-<font color=SteelBlue size=5>Quick Links</font>  
-[<font color=SteelBlue>*Fishmarket Seafoods*</font>](Brand_FishmarketSeafoods.html)  
-[<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
-[<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
-[<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
-[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
-</center></div>
-
-<div class="footer_social_privacy"><center>
-<font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
-<font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
-</center></div>
-
-</font>
-
-</footer>
-
-##<font face="High Tower Text" size=4>Photos</font>
-###<font size=6>Our People</font>
-- balabala
-- balabala
-
-###<font size=6>Meat Lines & Factories</font>
-- balabala
-- balabala
-
-<br>
-<br>
-<br>
-
----
-
-<footer>
-
-<center>**Copyright &copy; 2017 Fishmarket Inc. All rights reserved.**</center>
-
-<font face="Calibri" color=SteelBlue>
-
-<div class="footer_contact"><center>
-[<font color=SteelBlue size=5>Contact Us</font>](Contact.html)  
-Phone: 502-587-7474  
-Email: sales@fishmarketseafoods.net  
-Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</font>](https://www.google.com/maps/place/1406+W+Chestnut+St,+Louisville,+KY+40203)
-</center></div>
-
-<div class="footer_quicklink"><center>
-<font color=SteelBlue size=5>Quick Links</font>  
-[<font color=SteelBlue>*Fishmarket Seafoods*</font>](Brand_FishmarketSeafoods.html)  
-[<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
-[<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
-[<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
-[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
-</center></div>
-
-<div class="footer_social_privacy"><center>
-<font color=SteelBlue size=5>Social Media</font>  
-<i class="fa fa-facebook-official" aria-hidden="true"> [<font color=SteelBlue>Facebook</font>](https://www.facebook.com/FishmarketInc/)</i>  
-<font color=SteelBlue size=5>[<font color=SteelBlue>Privacy</font>](Privacy.html)|[<font color=SteelBlue>Disclaimer</font>](Disclaimer.html)</font>
-</center></div>
-
-</font>
-
-</footer>
-
-##<font face="High Tower Text" size=4>Honors</font>
+##<font face="High Tower Text" size=4>Local Organizations</font>
 ###<font size=6>Kentucky Proud Promotional Program (2017)</font>
-- <font size=5 color=red>*Descriptions*</font>
 
 <center><div style="width:50%">
 <img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_KY_Proud.png")</img>
 </div></center>
 
 ###<font size=6>Indiana Grown</font>
-- <font size=5 color=red>*Descriptions*</font>
 
 <center><div style="width:50%">
 <img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_Indiana_Grown.png")</img>
 </div></center>
 
-###<font size=6>Better Business Bureau (2011)</font>
-- <font size=5 color=red>*Descriptions*</font>
+###<font size=6>Better Business Bureau (Since 2010)</font>
 
 <center><div style="width:50%">
 <img src="https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/About%20Us%20Photos/Certificate_BBB.png")</img>
