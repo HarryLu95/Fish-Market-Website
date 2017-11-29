@@ -30,7 +30,7 @@ navbar:
           href: Brand_CopperKettle.html
         - text: "Kentucky Proud Local Items"
           icon: fa-caret-right
-          href: Splty_KentuckyProud.html
+          href: Brand_KentuckyProud.html
     - text: "Contact"
       icon: fa-phone
       href: Contact.html

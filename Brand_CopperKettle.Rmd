@@ -51,7 +51,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 [<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
 [<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
 [<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
-[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
+[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Brand_KentuckyProud.html)
 </center></div>
 
 <div class="footer_social_privacy"><center>

@@ -1,9 +1,6 @@
 ---
-title: <font face="Algerian" color=White size=0.5>FISHMARKET INC.</font>
-output: 
-  html_document:
-    toc: false
-    toc_float: true
+title: <font face="Algerian" color=White size=1>FISHMARKET INC.</font>
+output: html_document
 ---
 
 <div id="backtop"><a href="#">TOP</a></div>
@@ -53,8 +50,8 @@ We began as a full service seafood company but have expanded into production and
 </div>
 
 <div class="box">
-<a href="Splty_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
-<center><font size=5>[<font color=SteelBlue>Kentucky Proud Local Items</font>](Splty_KentuckyProud.html)</font></center>
+<a href="Brand_KentuckyProud.html">![](https://raw.githubusercontent.com/HarryLu95/Fishmarket-Website/master/Logo_Kentucky_Proud.jpg)</a>
+<center><font size=5>[<font color=SteelBlue>Kentucky Proud Local Items</font>](Brand_KentuckyProud.html)</font></center>
 </div>
 
 </center>
@@ -84,7 +81,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 [<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
 [<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
 [<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
-[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
+[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Brand_KentuckyProud.html)
 </center></div>
 
 <div class="footer_social_privacy"><center>

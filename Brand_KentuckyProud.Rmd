@@ -349,7 +349,7 @@ output:
 - Made By Mavis Dark Chocolate Raspberry Jam, 12/8oz
 - Made By Mavis Peach Bellini Jam, 12/8oz
 - Made By Mavis Pome-Pinot Noir Jelly, 12/8oz
-- Made By Mavis Strawberry- Mango Jam, 12/8oz
+- Made By Mavis Strawberry-Mango Jam, 12/8oz
 - Made By Mavis Tropic Thunder Jam, 12/8oz
 
 </font>
@@ -369,8 +369,8 @@ output:
 <h2>*Bloomfield*</h2>
 <font size=4>
 
-- Bloomfield GF Cake Mix, 6/15oz
 - Bloomfield GF Brownie Mix, 6/16oz
+- Bloomfield GF Cake Mix, 6/15oz
 - Bloomfield GF Cookie Mix, 6/16oz
 - Bloomfield GF Cornbread Mix, 6/18.5oz
 - Bloomfield GF Muffin Mix, 6/18.5oz
@@ -427,11 +427,11 @@ output:
 <h2>*Catrina's*</h2>
 <font size=4>
 
-- Catrina's Kitchen Southern Seasoned Flour, 6/10oz
-- Catrina's Fish & Veg Seasoning, 6/10oz
 - Catrina's A Little Somethin Somethin, 6/8oz
-- Catrina's Sweet Sour Cream Cornbread, 6/11.6oz
 - Catrina's Candied Yam Mix, 6/1.4#
+- Catrina's Fish & Veg Seasoning, 6/10oz
+- Catrina's Kitchen Southern Seasoned Flour, 6/10oz
+- Catrina's Sweet Sour Cream Cornbread, 6/11.6oz
 
 </font>
 
@@ -445,36 +445,34 @@ output:
 <h2>*Weisenberger*</h2>
 <font size=4>
 
+- Weisenberger Apple Cinnamon Muffin Mix, 10/8oz
+- Weisenberger Banana Bread Mix, 5/1#
+- Weisenberger Biscuit Mix, 12/5.5oz
 - Weisenberger Blueberry Muffin Mix, 10/8oz
+- Weisenberger Bolted Plain White Corn Meal, 8/2#
+- Weisenberger Bolted White Corn Meal Self Rising, 8/2#
+- Weisenberger Cornmeal Bolted White, 8/2#
+- Weisenberger Gravy Mix, 6/1.5#
+- Weisenberger Lemon Poppy Muffin Mix, 10/8oz
+- Weisenberger Lemon Poppy Muffin, 10/8oz
+- Weisenberger Pancake Mix, 12/5.5oz
+- Weisenberger Pizza Crust Mix, 12/6.5oz
+- Weisenberger Pumpkin Bread Mix, 5/14oz
+- Weisenberger Raspberry Muffin Mix, 10/8oz
+- Weisenberger Seasoned Flour Mix, 12/5.5oz
+- Weisenberger Self Rising Flour, 6/5#
+- Weisenberger Sour Cream Scone Mix, 10/8oz
+- Weisenberger Spoon Bread Mix, 12/5.5oz
+- Weisenberger Stone Ground Whole Wheat Flour, 8/2#
+- Weisenberger Unbleached All Purpose Flour, 6/5#
+- Weisenberger Wheat Bran, 6/2#
+- Weisenberger White Corn Meal Unbolted, 6/5#
 - Weisenberger White Cornbread Mix, 12/5.5oz
 - Weisenberger White Grits, 8/2#
-- Weisenberger Pancake Mix, 12/5.5oz
-- Weisenberger Yellow Corn Muffin Mix, 12/5.5oz
-- Weisenberger Biscuit Mix, 12/5.5oz
-- Weisenberger Gravy Mix, 6/1.5#
-- Weisenberger Wh Wheat Biscuit Mix, 12/5.5oz
-- Weisenberger Wheat Bran, 6/2#
-- Weisenberger Stone Ground Whole Wheat Flour, 8/2#
-- Weisenberger Pumpkin Bread Mix, 5/14oz
-- Weisenberger Bolted White Corn Meal S/R, 8/2#
+- Weisenberger Whole Wheat Biscuit Mix, 12/5.5oz
 - Weisenberger Yellow Corn Meal, 6/5#
-- Weisenberger White Corn Meal Unbolted, 6/5#
-- Weisenberger Cornmeal Bolted White, 8/2#
-- Weisenberger Seasoned Flour Mix, 12/5.5oz
-- Weisenberger Unbleached All Purpose Flour, 6/5#
-- Weisenberger SR Flour, 6/5#
-- Weisenberger Lemon Poppy Muffin, 10/8oz
-- Weisenberger Spoonbread Mix, 12/5.5oz
-- Weisenberger Banana Bread Mix, 5/1#
-- Weisenberger Raspberry Muffin Mix, 10/8oz
-- Weisenberger Pizza Crust Mix, 12/6.5oz
-- Weisenberger Sour Creme Scone Mix, 10/8oz
-- Weisenberger Apple Cinnamon Muffin Mix, 10/8oz
-- Weisenberger Lemon Poppy Muffin Mix, 10/8oz
-- Weisenberger White Cornbread Mix, 12/5.5oz
+- Weisenberger Yellow Corn Muffin Mix, 12/5.5oz
 - Weisenberger Yellow Grits, 8/2#
-- Weisenberger Bolted Plain White Corn Meal, 8/2#
-- Weisenberger Spoon Bread Mix, 12/5.5oz
 
 </font>
 
@@ -498,12 +496,12 @@ output:
 <h2>*Rock Bottom*</h2>
 <font size=4>
 
-- Rock Bottom Blk Raspberry Vanilla Goat Milk Soap, 12/5oz
-- Rock Bottom Oatmeal Goat Milk Soap, 12/5oz
-- Rock Bottom Seashore Goat Milk Soap, 12/5oz
 - Rock Bottom Blk Raspberry Vanilla Body Butter, 12/4oz
+- Rock Bottom Blk Raspberry Vanilla Goat Milk Soap, 12/5oz
 - Rock Bottom Milk & Honey Body Butter, 12/4oz
+- Rock Bottom Oatmeal Goat Milk Soap, 12/5oz
 - Rock Bottom Seashore Body Butter, 12/4oz
+- Rock Bottom Seashore Goat Milk Soap, 12/5oz
 
 </font>
 
@@ -512,11 +510,11 @@ output:
 
 - Singing Hills Ginger Lime Goat Milk Lotion, 6/8oz
 - Singing Hills Lavender Goat Milk Lotion, 6/8oz
-- Singing Hills Lemongrass & Sage Goat Milk Lotion, 6/8oz
-- Singing Hills Moonlight Pomegranate Goat MIlk Lotion, 6/8oz
-- Singing Hills Summer Fling Goat Milk Lotion, 6/8oz
 - Singing Hills Lavender Goat Milk Soap, 12/4.5oz
+- Singing Hills Lemongrass & Sage Goat Milk Lotion, 6/8oz
+- Singing Hills Moonlight Pomegranate Goat Milk Lotion, 6/8oz
 - Singing Hills Moonlight Pomegranate Goat Milk Soap, 12/4.5oz
+- Singing Hills Summer Fling Goat Milk Lotion, 6/8oz
 
 </font>
 
@@ -555,14 +553,14 @@ output:
 <h2>*Dee's Nutz*</h2>
 <font size=4>
 
-- Dee's Nutz Honey Bourbon Nuts, 12/6oz
 - Dee's Nutz Beer Cheese Peanuts, 12/6oz
-- Dee's Nutz Bluegrass Trail Mix, 12/6oz
-- Dee's Nutz Honey Bourbon Nuts, 12/10oz
-- Dee's Nutz Bluegrass Ttrail Mix, 12/10oz
 - Dee's Nutz Beer Cheese Peanuts, 12/10oz
 - Dee's Nutz Beer Cheese Peanuts, 24/1oz
+- Dee's Nutz Bluegrass Trail Mix, 12/6oz
+- Dee's Nutz Bluegrass Trail Mix, 12/10oz
 - Dee's Nutz Bluegrass Trail Mix, 24/1oz
+- Dee's Nutz Honey Bourbon Nuts, 12/6oz
+- Dee's Nutz Honey Bourbon Nuts, 12/10oz
 - Dee's Nutz Honey Bourbon Nuts, 24/1oz
 
 </font>
@@ -571,8 +569,8 @@ output:
 <font size=4>
 
 - Grateful G. Chocolate Snack Pack, 6/6oz
-- Grateful G. Original Snack Pack, 6/6oz
 - Grateful G. Choc. Choc. Bite, 6/8oz
+- Grateful G. Original Snack Pack, 6/6oz
 - Grateful G. Peanut Butter Choc Bite, 6/8oz
 - Grateful G. Pumpkin Pecan Spice Bite, 6/8oz
 
@@ -698,7 +696,7 @@ Address: [<font color=SteelBlue>*1406 West Chestnut St, Louisville, KY 40203*</f
 [<font color=SteelBlue>*Red River Steaks*</font>](Brand_RedRiverSteaks.html)  
 [<font color=SteelBlue>*Smith's Family Market*</font>](Brand_SmithFamilyMarket.html)  
 [<font color=SteelBlue>*Copper Kettle*</font>](Brand_CopperKettle.html)  
-[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Splty_KentuckyProud.html)
+[<font color=SteelBlue>*Kentucky Proud Local Items*</font>](Brand_KentuckyProud.html)
 </center></div>
 
 <div class="footer_social_privacy"><center>
